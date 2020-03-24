@@ -30,7 +30,7 @@ Der Kurs wird von **Alexander Bazo** (alexander.bazo@ur.de) betreut und geleitet
 - Alle Streams werden kurzfristig über Twitch archiviert, heruntergeladen und dauerhaft über andere Systeme verteilt (z.B. Mediathek der Uni oder YouTube)
 - Für das Streamen/Aufzeichnen wird ein UR-gebrandetes Overlay bzw. Szenenpaket entwickelt
 #### Hardware
-- Uni-Workstation oder Persönlicher Rechner
+- Uni-Workstation oder persönlicher Rechner
 - Kondensatormikrofon an USB-Audio-Interface
 - Webcam (Logitech C920) oder professionelle Kamera an HDMI-Interface
 ### Live-Coaching bzw. Online-Sprechstunden
@@ -42,5 +42,5 @@ Der Kurs wird von **Alexander Bazo** (alexander.bazo@ur.de) betreut und geleitet
 * [ ] Zusätzliche Tutorials und Informationen vorbereiten
 * [ ] Streams planen und inhaltlich vorbereiten 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM2MzQwMzk1LC0xNDQ5MjIyMzQ3XX0=
+eyJoaXN0b3J5IjpbLTU1NjIxMzU1NywtMTQ0OTIyMjM0N119
 -->
