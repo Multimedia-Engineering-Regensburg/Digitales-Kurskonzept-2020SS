@@ -1,4 +1,50 @@
 # MME im Sommersemester 2020
+
+## Grundsätzlicher Aufbau und Kursbestandteile
+
+### Personal
+Der Kurs wird von **Alexander Bazo** (alexander.bazo@ur.de) betreut und geleitet. Bei der Vorbereitung und Durchführung des Übungsbetriebs unterstützt ein Tutor (SHK/WHK 40).
+### Vorlesung
+
+### Lerngruppen
+
+### Zentralübung
+
+### Übungsaufgaben und Betreuung
+
+#### Betreuung der Lerngruppen
+
+### Projekte
+> Genaue Ausgestaltung noch sehr unklar
+
+### Studienleistungen und Prüfungen
+> Genaue Ausgestaltung noch sehr unklar
+
+Alle Prüfungen werden, soweit möglich, elektronisch und *Remote* durchgeführt. Im besten Fall kann dafür das ILIAS-System (Vgl. *Eignungsprüfung*) eingesetzt werden. Der genaue Ablauf muss in Absprache mit der Rechtsabteilung bzw. nach Information der Universitätsleitung zu Klausuren im Sommersemester geplant werden.
+## Eingesetzte Werkzeuge
+### Lernplattform
+- Alle statische Materialien werden den StudentInnen über ILIAS bereitgestellt
+- Alle Übungsaufgaben und Handouts werden über [Github](https://github.com/Android-Regensburg) erstellt und gepflegt und von dort im ILIAS-System als Starterpaket bzw. PDF zum Download angeboten
+### Streaming und Aufzeichnung
+- Als Streaming-Plattform wird [Twitch](twitch.tv) eingesetzt
+- Client-seitig wird [OBS](https://obsproject.com/de) verwendet
+- Alle Streams werden kurzfristig über Twitch archiviert, heruntergeladen und dauerhaft über andere Systeme verteilt (z.B. Mediathek der Uni oder YouTube)
+- Für das Streamen/Aufzeichnen wird ein UR-gebrandetes Overlay bzw. Szenenpaket entwickelt
+#### Hardware
+- Uni-Workstation oder Persönlicher Rechner
+- Kondensatormikrofon an USB-Audio-Interface
+- Webcam (Logitech C920) oder professionelle Kamera an HDMI-Interface
+### Live-Coaching
+- Als Plattform für das Live-Coaching werden einzelne Kanäle auf [Discord](https://discordapp.com/) oder eine ähnliche Umgebung (z.B. der [Rocket-Chat der Universität Regensburg]([https://chat.ur.de](https://chat.ur.de/)) eingesetzt
+## TODOs
+> Unvollständig
+
+* [ ] Dokumenten-Repository als Grundlage für Ausarbeitung weiterer Kursmaterialen schaffen
+* [ ] Übungsaufaben nach Github übertragen
+* [ ] Hardware (Webcams) für Tutorn besorgen
+* [ ] Zusätzliche Tutorials und Informationen vorbereiten
+* [ ] Streams planen und inhaltlich vorbereiten 
+* [ ] Live Coaching-Anleitungen erstellen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDkyMjIzNDddfQ==
+eyJoaXN0b3J5IjpbLTIxNzY5OTY1MiwtMTQ0OTIyMjM0N119
 -->
