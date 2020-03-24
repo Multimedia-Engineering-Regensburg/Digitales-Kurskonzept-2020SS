@@ -41,7 +41,6 @@ Der Kurs wird von **Alexander Bazo** (alexander.bazo@ur.de) betreut und geleitet
 * [ ] Hardware (Webcams) für Tutorn besorgen
 * [ ] Zusätzliche Tutorials und Informationen vorbereiten
 * [ ] Streams planen und inhaltlich vorbereiten 
-* [ ] Live Coaching-Anleitungen erstellen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjczOTEwMCwtMTQ0OTIyMjM0N119
+eyJoaXN0b3J5IjpbODM2MzQwMzk1LC0xNDQ5MjIyMzQ3XX0=
 -->
