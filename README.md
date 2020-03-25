@@ -1,7 +1,7 @@
 # MME im Sommersemester 2020
 
 ## Grundsätzlicher Aufbau und Kursbestandteile
-Der Kurs besteht aus einer Vorlesung und einer Übung die wöchentlich und direkt nach einander stattfinden. Teil der Vorlesung werden bereits durch die Arbeit mit bereitgestelltem Lernmaterial und vorzubereitenden Übungsaufgaben ersetzt. In den Übungen erfolgt die Inhaltsermittlung durch das gemeinsame Implementieren von kleineren Anwendungen, die die vorbereiteten Inhalte aufgreifen und umsetzten. Die Materialien werden über eine zentrale [Kursseite](https://regensburger-forscher.de/mme/) bereitgestellt und zusätzlich im GRIPS-Kurs verlinkt. Der Quellcode zu allen Demos und Beispiele wird über individuelle Github-Repositorys 
+Der Kurs besteht aus einer Vorlesung und einer Übung die wöchentlich und direkt nach einander stattfinden. Teil der Vorlesung werden bereits durch die Arbeit mit bereitgestelltem Lernmaterial und vorzubereitenden Übungsaufgaben ersetzt. In den Übungen erfolgt die Inhaltsermittlung durch das gemeinsame Implementieren von kleineren Anwendungen, die die vorbereiteten Inhalte aufgreifen und umsetzten. Die Materialien werden über eine zentrale [Kursseite](https://regensburger-forscher.de/mme/) bereitgestellt und zusätzlich im GRIPS-Kurs verlinkt. Der Quellcode zu allen Demos und Beispiele wird über individuelle Github-Repositorys gepflegt und auf den verschiedene Plattformen eingesetzt. Als Studienleistung werden aktuell im Laufe der Vorlesungszeit drei größere Implementierungsprojekte bearbeitet. Die eigentliche Prüfungsleistung besteht aus einem Implementierungsprojekt, dass 
 
 ### Personal
 Der Kurs wird von **Alexander Bazo** (alexander.bazo@ur.de) betreut und geleitet. Bei der Vorbereitung und Durchführung des Übungsbetriebs unterstützt ein Tutor (SHK/WHK 40).
@@ -43,6 +43,6 @@ Der Kurs wird von **Alexander Bazo** (alexander.bazo@ur.de) betreut und geleitet
 * [ ] Zusätzliche Tutorials und Informationen vorbereiten
 * [ ] Streams planen und inhaltlich vorbereiten 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5Mjk2MjI5MSwtNTU2MjEzNTU3LC0xND
+eyJoaXN0b3J5IjpbMTkxMjMzNTAxMCwtNTU2MjEzNTU3LC0xND
 Q5MjIyMzQ3XX0=
 -->
