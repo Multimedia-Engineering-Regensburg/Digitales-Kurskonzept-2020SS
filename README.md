@@ -1,7 +1,7 @@
 # MME im Sommersemester 2020
 
 ## Grundsätzlicher Aufbau und Kursbestandteile
-
+Der Kurs besteht aus einer Vorlesung und einer Übung die wöchentlich und direkt nach einander stattfinden. Teil der Vorlesung werden bereits durch die Arbeit mit bereitgestelltem Lernmaterial und vorzubereitenden Übungsaufgaben ersetzt. In den Übungen erfolgt die Inhaltvermittlung durch das gemeinsame I
 
 ### Personal
 Der Kurs wird von **Alexander Bazo** (alexander.bazo@ur.de) betreut und geleitet. Bei der Vorbereitung und Durchführung des Übungsbetriebs unterstützt ein Tutor (SHK/WHK 40).
@@ -43,6 +43,6 @@ Der Kurs wird von **Alexander Bazo** (alexander.bazo@ur.de) betreut und geleitet
 * [ ] Zusätzliche Tutorials und Informationen vorbereiten
 * [ ] Streams planen und inhaltlich vorbereiten 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwNzA1ODQ5LC01NTYyMTM1NTcsLTE0ND
+eyJoaXN0b3J5IjpbODg5OTk3Mjk1LC01NTYyMTM1NTcsLTE0ND
 kyMjIzNDddfQ==
 -->
