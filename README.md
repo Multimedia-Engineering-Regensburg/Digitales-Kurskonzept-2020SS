@@ -2,6 +2,7 @@
 
 ## Grundsätzlicher Aufbau und Kursbestandteile
 
+
 ### Personal
 Der Kurs wird von **Alexander Bazo** (alexander.bazo@ur.de) betreut und geleitet. Bei der Vorbereitung und Durchführung des Übungsbetriebs unterstützt ein Tutor (SHK/WHK 40).
 ### Vorlesung
@@ -42,5 +43,6 @@ Der Kurs wird von **Alexander Bazo** (alexander.bazo@ur.de) betreut und geleitet
 * [ ] Zusätzliche Tutorials und Informationen vorbereiten
 * [ ] Streams planen und inhaltlich vorbereiten 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NjIxMzU1NywtMTQ0OTIyMjM0N119
+eyJoaXN0b3J5IjpbNzMwNzA1ODQ5LC01NTYyMTM1NTcsLTE0ND
+kyMjIzNDddfQ==
 -->
