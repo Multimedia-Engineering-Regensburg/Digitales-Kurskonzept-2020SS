@@ -18,7 +18,7 @@ Der Kurs wird auf insgesamt ca. 10 inhaltliche Sitzungen reduziert. Zu jeder Sit
 |6| 27.05.2020 | Daten persistieren | | | |
 |7| 03.06.2020 | Multimedial Inhalte im Browser| | | |
 |8| 10.06.2020 | Serverseitige Programmierung| | | |
-|9| 17.06.2020 | | | | |
+|9| 17.06.2020 | -| | | |
 |10| 24.06.2020 | | | | |
 |-| 01.07.2020 | | | | |
 |-| 08.07.2020 | | | | |
@@ -26,7 +26,7 @@ Der Kurs wird auf insgesamt ca. 10 inhaltliche Sitzungen reduziert. Zu jeder Sit
 |-| 22.07.2020 | | | | |
 
 #### Offline-Themen
-- Grundlagen Versionsverwaltung
+- Grundlagen auf 2. Wochen ausdehene
 
 
 ### Vorlesung
@@ -69,7 +69,8 @@ Die Vorlesung wird vollständig durch das Selbststudium mit dem vorhandenen und 
 * [ ] Zusätzliche Tutorials und Informationen vorbereiten
 * [ ] Streams planen und inhaltlich vorbereiten 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyODI5NDA3OCw1ODU0MjU0NDQsMTkzOT
-I3NzE1OCwtMTgwMDE2NDAwMCwtMTU3NTkzMzU2NiwtMTQ0NDg1
-NDQwNywtNTU2MjEzNTU3LC0xNDQ5MjIyMzQ3XX0=
+eyJoaXN0b3J5IjpbLTEyMzE0MTA5MjMsMTUyODI5NDA3OCw1OD
+U0MjU0NDQsMTkzOTI3NzE1OCwtMTgwMDE2NDAwMCwtMTU3NTkz
+MzU2NiwtMTQ0NDg1NDQwNywtNTU2MjEzNTU3LC0xNDQ5MjIyMz
+Q3XX0=
 -->
