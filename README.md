@@ -12,8 +12,8 @@ Der Kurs wird auf insgesamt ca. 10 inhaltliche Sitzungen reduziert. Zu jeder Sit
 |-------|-------|---------------|---------------|----------|
 | 22.04.2020 | **entfällt** | | | |
 | 29.04.2020 | Grundlagen Javascript Im Browser | | | |
-| 06.05.2020 | | | | |
-| 13.05.2020 | | | | |
+| 06.05.2020 | Javascript-Anwendung modularisieren | | | |
+| 13.05.2020 | Client-Server-Konzepte/Anwendungen| | | |
 | 20.05.2020 | | | | |
 | 27.05.2020 | | | | |
 | 03.06.2020 | | | | |
@@ -25,6 +25,8 @@ Der Kurs wird auf insgesamt ca. 10 inhaltliche Sitzungen reduziert. Zu jeder Sit
 | 15.07.2020 | | | | |
 | 22.07.2020 | | | | |
 
+#### Offline-Themen
+- Grundlagen Versionsverwaltung
 
 
 ### Vorlesung
@@ -67,7 +69,7 @@ Die Vorlesung wird vollständig durch das Selbststudium mit dem vorhandenen und 
 * [ ] Zusätzliche Tutorials und Informationen vorbereiten
 * [ ] Streams planen und inhaltlich vorbereiten 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NzkyOTA4LDU4NTQyNTQ0NCwxOTM5Mj
-c3MTU4LC0xODAwMTY0MDAwLC0xNTc1OTMzNTY2LC0xNDQ0ODU0
-NDA3LC01NTYyMTM1NTcsLTE0NDkyMjIzNDddfQ==
+eyJoaXN0b3J5IjpbLTEyMjI1NzQ4NTQsNTg1NDI1NDQ0LDE5Mz
+kyNzcxNTgsLTE4MDAxNjQwMDAsLTE1NzU5MzM1NjYsLTE0NDQ4
+NTQ0MDcsLTU1NjIxMzU1NywtMTQ0OTIyMjM0N119
 -->
