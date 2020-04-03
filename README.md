@@ -4,13 +4,15 @@
 Der Kurs besteht aus einer Vorlesung und einer Übung die wöchentlich und direkt nach einander stattfinden. Teil der Vorlesung werden bereits durch die Arbeit mit bereitgestelltem Lernmaterial und vorzubereitenden Übungsaufgaben ersetzt. In den Übungen erfolgt die Inhaltsermittlung durch das gemeinsame Implementieren von kleineren Anwendungen, die die vorbereiteten Inhalte aufgreifen und umsetzten. Die Materialien werden über eine zentrale [Kursseite](https://regensburger-forscher.de/mme/) bereitgestellt und zusätzlich im GRIPS-Kurs verlinkt. Der Quellcode zu allen Demos und Beispiele wird über individuelle Github-Repositorys gepflegt und auf den verschiedene Plattformen eingesetzt. Als Studienleistung werden aktuell im Laufe der Vorlesungszeit drei größere Implementierungsprojekte bearbeitet. Die eigentliche Prüfungsleistung besteht aus einem Implementierungsprojekt, dass in Gruppenarbeit während der vorlesungsfreien Zeit durchgeführt wird. 
 
 ### Personal
-Der Kurs wird von **Alexander Bazo** (alexander.bazo@ur.de) betreut und geleitet. Bei der Vorbereitung und Durchführung des Übungsbetriebs unterstützt ein Tutor (SHK/WHK 40).
+Der Kurs wird von **Alexander Bazo** (alexander.bazo@ur.de) betreut und geleitet. Bei der Vorbereitung und Durchführung des Übungsbetriebs unterstützen zwei Tutoren (SHK/WHK 40).
 ### Vorlesung
-Die Vorlesung wird vollständig durch 
+Die Vorlesung wird vollständig durch das Selbststudium mit dem vorhandenen und an relevanten Stellen ergänzten Material durchgeführt. 
+
+#
 
 ### Lerngruppen
 
-### Zentralübung
+### Zentralübung (Praktikum)
 
 ### Übungsaufgaben und Betreuung
 
@@ -44,6 +46,6 @@ Die Vorlesung wird vollständig durch
 * [ ] Zusätzliche Tutorials und Informationen vorbereiten
 * [ ] Streams planen und inhaltlich vorbereiten 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzU5MzM1NjYsLTE0NDQ4NTQ0MDcsLT
-U1NjIxMzU1NywtMTQ0OTIyMjM0N119
+eyJoaXN0b3J5IjpbMTcwMzY5MjAwNiwtMTU3NTkzMzU2NiwtMT
+Q0NDg1NDQwNywtNTU2MjEzNTU3LC0xNDQ5MjIyMzQ3XX0=
 -->
