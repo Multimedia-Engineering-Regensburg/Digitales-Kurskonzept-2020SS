@@ -10,7 +10,7 @@ Der Kurs wird auf insgesamt ca. 10 inhaltliche Sitzungen reduziert. Zu jeder Sit
 #### Vorläufiger Semesterplan
 | Datum | Thema | Live-Beispiel | Übungsaufgabe | Coaching |
 |-------|-------|---------------|---------------|----------|
-| 22.04.2020 | **entällt** | | | |
+| 22.04.2020 | **entfällt** | | | |
 | 29.04.2020 | | | | |
 | 06.05.2020 | | | | |
 | 13.05.2020 | | | | |
@@ -67,7 +67,7 @@ Die Vorlesung wird vollständig durch das Selbststudium mit dem vorhandenen und 
 * [ ] Zusätzliche Tutorials und Informationen vorbereiten
 * [ ] Streams planen und inhaltlich vorbereiten 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzOTI3NzE1OCwtMTgwMDE2NDAwMCwtMT
-U3NTkzMzU2NiwtMTQ0NDg1NDQwNywtNTU2MjEzNTU3LC0xNDQ5
-MjIyMzQ3XX0=
+eyJoaXN0b3J5IjpbNTg1NDI1NDQ0LDE5MzkyNzcxNTgsLTE4MD
+AxNjQwMDAsLTE1NzU5MzM1NjYsLTE0NDQ4NTQ0MDcsLTU1NjIx
+MzU1NywtMTQ0OTIyMjM0N119
 -->
