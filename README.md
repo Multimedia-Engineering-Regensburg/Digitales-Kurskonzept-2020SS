@@ -6,6 +6,7 @@ Der Kurs besteht aus einer Vorlesung und einer Übung die wöchentlich und direk
 ### Personal
 Der Kurs wird von **Alexander Bazo** (alexander.bazo@ur.de) betreut und geleitet. Bei der Vorbereitung und Durchführung des Übungsbetriebs unterstützt ein Tutor (SHK/WHK 40).
 ### Vorlesung
+Die Vorlesung wird vollständig durch 
 
 ### Lerngruppen
 
@@ -43,6 +44,6 @@ Der Kurs wird von **Alexander Bazo** (alexander.bazo@ur.de) betreut und geleitet
 * [ ] Zusätzliche Tutorials und Informationen vorbereiten
 * [ ] Streams planen und inhaltlich vorbereiten 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDQ4NTQ0MDcsLTU1NjIxMzU1NywtMT
-Q0OTIyMjM0N119
+eyJoaXN0b3J5IjpbLTE1NzU5MzM1NjYsLTE0NDQ4NTQ0MDcsLT
+U1NjIxMzU1NywtMTQ0OTIyMjM0N119
 -->
