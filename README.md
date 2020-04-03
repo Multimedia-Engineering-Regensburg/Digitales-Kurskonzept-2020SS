@@ -6,7 +6,24 @@ Der Kurs besteht aus einer Vorlesung und einer Übung die wöchentlich und direk
 ### Personal
 Der Kurs wird von **Alexander Bazo** (alexander.bazo@ur.de) betreut und geleitet. Bei der Vorbereitung und Durchführung des Übungsbetriebs unterstützen zwei Tutoren (SHK/WHK 40).
 ### Inhaltliche Anpassung
-Der Kurs wird auf insgesamt ca. 10 inhaltliche Sitzungen reduziert. Zu jeder Sitzung wird ein Paket aus entsprechendem Lernmaterial bereitgestellt. Die Inhalte werden in der Zentralübung an einem gemeinsamen Beispiel demonstriert. Zu jeder Sitzung wird eine (verpflichtende) Übungsaufgabe angeboten. Die Arbeit an den Projekten wird bereits früh im Semester begonnen, sodass die letzten 3-4 Wochen der Vo
+Der Kurs wird auf insgesamt ca. 10 inhaltliche Sitzungen reduziert. Zu jeder Sitzung wird ein Paket aus entsprechendem Lernmaterial bereitgestellt. Die Inhalte werden in der Zentralübung an einem gemeinsamen Beispiel demonstriert. Zu jeder Sitzung wird eine (verpflichtende) Übungsaufgabe angeboten. Die Projektphase wird früh im Semester begonnen, sodass die letzten 3-4 Wochen der Vorlesungszeit bereits für die Projektarbeit verwendet werden können. **Der Kurs beginnt in der zweiten Semesterwoche.**
+#### Vorläufiger Semesterplan
+-   22.04.2020
+-   29.04.2020
+-   06.05.2020
+-   13.05.2020
+-   20.05.2020
+-   27.05.2020
+-   03.06.2020
+-   10.06.2020
+-   17.06.2020
+-   24.06.2020
+-   01.07.2020
+-   08.07.2020
+-   15.07.2020
+-   22.07.2020
+
+
 
 ### Vorlesung
 Die Vorlesung wird vollständig durch das Selbststudium mit dem vorhandenen und an relevanten Stellen ergänzten Material durchgeführt. 
@@ -48,7 +65,7 @@ Die Vorlesung wird vollständig durch das Selbststudium mit dem vorhandenen und 
 * [ ] Zusätzliche Tutorials und Informationen vorbereiten
 * [ ] Streams planen und inhaltlich vorbereiten 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjUzMDU1NDAsLTE4MDAxNjQwMDAsLT
-E1NzU5MzM1NjYsLTE0NDQ4NTQ0MDcsLTU1NjIxMzU1NywtMTQ0
-OTIyMjM0N119
+eyJoaXN0b3J5IjpbMTk4OTkwMDI0MSwtMTgwMDE2NDAwMCwtMT
+U3NTkzMzU2NiwtMTQ0NDg1NDQwNywtNTU2MjEzNTU3LC0xNDQ5
+MjIyMzQ3XX0=
 -->
