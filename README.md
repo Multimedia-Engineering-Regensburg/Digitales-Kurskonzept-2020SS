@@ -12,13 +12,12 @@ Der Kurs wird auf insgesamt ca. 10 inhaltliche Sitzungen reduziert. Zu jeder Sit
 |---|-------|-------|---------------|---------------|----------|
 |-| 22.04.2020 | **entfällt** | | | |
 |1| 29.04.2020 | Grundlagen Javascript im Browser | | | |
-|3| 06.05.2020   | Grundlagen Versionsverwaltung | | | |
-|2| 06.05.2020 | Javascript-Anwendung modularisieren | | | |
-|3| 13.05.2020 | Client-Server-Konzepte/Anwendungen| | | |
-|4| 20.05.2020 | Daten persistieren | | | |
-|5| 27.05.2020 | Multimedial Inhalte im Browser| | | |
-|7| 03.06.2020 | Serverseitige Programmierung| | | |
-|8| 10.06.2020 | | | | |
+|3| 06.05.2020 | Grundlagen Versionsverwaltung | | | |
+|4| 13.05.2020 | Javascript-Anwendung modularisieren | | | |
+|5| 20.05.2020 | Client-Server-Konzepte/Anwendungen| | | |
+|6| 27.05.2020 | Daten persistieren | | | |
+|7| 03.06.2020 | Multimedial Inhalte im Browser| | | |
+|8| 10.06.2020 | Serverseitige Programmierung| | | |
 |9| 17.06.2020 | | | | |
 |10| 24.06.2020 | | | | |
 |-| 01.07.2020 | | | | |
@@ -70,7 +69,7 @@ Die Vorlesung wird vollständig durch das Selbststudium mit dem vorhandenen und 
 * [ ] Zusätzliche Tutorials und Informationen vorbereiten
 * [ ] Streams planen und inhaltlich vorbereiten 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2OTgyMjY2Miw1ODU0MjU0NDQsMTkzOT
+eyJoaXN0b3J5IjpbMTUyODI5NDA3OCw1ODU0MjU0NDQsMTkzOT
 I3NzE1OCwtMTgwMDE2NDAwMCwtMTU3NTkzMzU2NiwtMTQ0NDg1
 NDQwNywtNTU2MjEzNTU3LC0xNDQ5MjIyMzQ3XX0=
 -->
