@@ -8,13 +8,15 @@ Der Kurs wird von **Alexander Bazo** (alexander.bazo@ur.de) betreut und geleitet
 ### Inhaltliche Anpassung
 Der Kurs wird auf insgesamt ca. 10 inhaltliche Sitzungen reduziert. Zu jeder Sitzung wird ein Paket aus entsprechendem Lernmaterial bereitgestellt. Die Inhalte werden in der Zentralübung an einem gemeinsamen Beispiel demonstriert. Zu jeder Sitzung wird eine (verpflichtende) Übungsaufgabe angeboten. Die Projektphase wird früh im Semester begonnen, sodass die letzten 3-4 Wochen der Vorlesungszeit bereits für die Projektarbeit verwendet werden können. **Der Kurs beginnt in der zweiten Semesterwoche.**
 #### Vorläufiger Semesterplan
--   22.04.2020
--   29.04.2020
--   06.05.2020
--   13.05.2020
--   20.05.2020
--   27.05.2020
--   03.06.2020
+| Datum | Thema | Live-Beispiel | Übungsaufgabe | Coaching |
+|-------|-------|---------------|---------------|----------|
+| 22.04.2020: **entfällt**
+- 29.04.2020:
+-   06.05.2020:
+-   13.05.2020:
+-   20.05.2020:
+-   27.05.2020:
+-   03.06.2020:
 -   10.06.2020
 -   17.06.2020
 -   24.06.2020
@@ -65,7 +67,7 @@ Die Vorlesung wird vollständig durch das Selbststudium mit dem vorhandenen und 
 * [ ] Zusätzliche Tutorials und Informationen vorbereiten
 * [ ] Streams planen und inhaltlich vorbereiten 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4OTkwMDI0MSwtMTgwMDE2NDAwMCwtMT
+eyJoaXN0b3J5IjpbMTI5NjQxNjcxMywtMTgwMDE2NDAwMCwtMT
 U3NTkzMzU2NiwtMTQ0NDg1NDQwNywtNTU2MjEzNTU3LC0xNDQ5
 MjIyMzQ3XX0=
 -->
