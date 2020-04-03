@@ -8,22 +8,22 @@ Der Kurs wird von **Alexander Bazo** (alexander.bazo@ur.de) betreut und geleitet
 ### Inhaltliche Anpassung
 Der Kurs wird auf insgesamt ca. 10 inhaltliche Sitzungen reduziert. Zu jeder Sitzung wird ein Paket aus entsprechendem Lernmaterial bereitgestellt. Die Inhalte werden in der Zentralübung an einem gemeinsamen Beispiel demonstriert. Zu jeder Sitzung wird eine (verpflichtende) Übungsaufgabe angeboten. Die Projektphase wird früh im Semester begonnen, sodass die letzten 3-4 Wochen der Vorlesungszeit bereits für die Projektarbeit verwendet werden können. **Der Kurs beginnt in der zweiten Semesterwoche.**
 #### Vorläufiger Semesterplan
-| Datum | Thema | Live-Beispiel | Übungsaufgabe | Coaching |
-|-------|-------|---------------|---------------|----------|
-| 22.04.2020 | **entfällt** | | | |
-| 29.04.2020 | Grundlagen Javascript Im Browser | | | |
-| 06.05.2020 | Javascript-Anwendung modularisieren | | | |
-| 13.05.2020 | Client-Server-Konzepte/Anwendungen| | | |
-| 20.05.2020 | | | | |
-| 27.05.2020 | | | | |
-| 03.06.2020 | | | | |
-| 10.06.2020 | | | | |
-| 17.06.2020 | | | | |
-| 24.06.2020 | | | | |
-| 01.07.2020 | | | | |
-| 08.07.2020 | | | | |
-| 15.07.2020 | | | | |
-| 22.07.2020 | | | | |
+| Einheit | Datum | Thema | Live-Beispiel | Übungsaufgabe | Coaching |
+|---|-------|-------|---------------|---------------|----------|
+|-| 22.04.2020 | **entfällt** | | | |
+|1| 29.04.2020 | Grundlagen Javascript Im Browser | | | |
+|2| 06.05.2020 | Javascript-Anwendung modularisieren | | | |
+|3| 13.05.2020 | Client-Server-Konzepte/Anwendungen| | | |
+|4| 20.05.2020 | Daten persistieren | | | |
+|5| 27.05.2020 | Multimedial Inhalte im Browser| | | |
+|| 03.06.2020 | | | | |
+|-| 10.06.2020 | | | | |
+|-| 17.06.2020 | | | | |
+|-| 24.06.2020 | | | | |
+|-| 01.07.2020 | | | | |
+|-| 08.07.2020 | | | | |
+|-| 15.07.2020 | | | | |
+|-| 22.07.2020 | | | | |
 
 #### Offline-Themen
 - Grundlagen Versionsverwaltung
@@ -69,7 +69,7 @@ Die Vorlesung wird vollständig durch das Selbststudium mit dem vorhandenen und 
 * [ ] Zusätzliche Tutorials und Informationen vorbereiten
 * [ ] Streams planen und inhaltlich vorbereiten 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjI1NzQ4NTQsNTg1NDI1NDQ0LDE5Mz
+eyJoaXN0b3J5IjpbLTEyNDM3MjY0MDUsNTg1NDI1NDQ0LDE5Mz
 kyNzcxNTgsLTE4MDAxNjQwMDAsLTE1NzU5MzM1NjYsLTE0NDQ4
 NTQ0MDcsLTU1NjIxMzU1NywtMTQ0OTIyMjM0N119
 -->
