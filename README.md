@@ -6,7 +6,7 @@ Der Kurs besteht aus einer Vorlesung und einer Übung die wöchentlich und direk
 ### Personal
 Der Kurs wird von **Alexander Bazo** (alexander.bazo@ur.de) betreut und geleitet. Bei der Vorbereitung und Durchführung des Übungsbetriebs unterstützen zwei Tutoren (SHK/WHK 40).
 ### Inhaltliche Anpassung
-Der Kurs wird auf insgesamt ca. 10 inhaltliche Sitzungen reduziert. Zu jeder Sitzung wird ein Paket aus entsprechendem Lernmaterial bereitgestellt. Die Inhalte werden in der Zentralübung an einem gemeinsamen Beispiel demonstriert u
+Der Kurs wird auf insgesamt ca. 10 inhaltliche Sitzungen reduziert. Zu jeder Sitzung wird ein Paket aus entsprechendem Lernmaterial bereitgestellt. Die Inhalte werden in der Zentralübung an einem gemeinsamen Beispiel demonstriert. Zu jeder Sitzung 
 ### Vorlesung
 Die Vorlesung wird vollständig durch das Selbststudium mit dem vorhandenen und an relevanten Stellen ergänzten Material durchgeführt. 
 
@@ -47,6 +47,6 @@ Die Vorlesung wird vollständig durch das Selbststudium mit dem vorhandenen und 
 * [ ] Zusätzliche Tutorials und Informationen vorbereiten
 * [ ] Streams planen und inhaltlich vorbereiten 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDU3MjM4MDYsLTE1NzU5MzM1NjYsLT
+eyJoaXN0b3J5IjpbLTE4MDAxNjQwMDAsLTE1NzU5MzM1NjYsLT
 E0NDQ4NTQ0MDcsLTU1NjIxMzU1NywtMTQ0OTIyMjM0N119
 -->
