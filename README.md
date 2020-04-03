@@ -24,11 +24,6 @@ Der Kurs wird auf insgesamt ca. 10 inhaltliche Sitzungen reduziert. Zu jeder Sit
 |12| 08.07.2020 | | | | |
 |13| 15.07.2020 | | | | |
 |14| 22.07.2020 | | | | |
-
-#### Offline-Themen
-- Grundlagen auf 2. Wochen ausdehene
-
-
 ### Vorlesung
 Die Vorlesung wird vollständig durch das Selbststudium mit dem vorhandenen und an relevanten Stellen ergänzten Material durchgeführt. 
 
@@ -69,7 +64,7 @@ Die Vorlesung wird vollständig durch das Selbststudium mit dem vorhandenen und 
 * [ ] Zusätzliche Tutorials und Informationen vorbereiten
 * [ ] Streams planen und inhaltlich vorbereiten 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1Nzc2NzY5NiwxNTI4Mjk0MDc4LDU4NT
+eyJoaXN0b3J5IjpbLTc4NDQ0NTUxNywxNTI4Mjk0MDc4LDU4NT
 QyNTQ0NCwxOTM5Mjc3MTU4LC0xODAwMTY0MDAwLC0xNTc1OTMz
 NTY2LC0xNDQ0ODU0NDA3LC01NTYyMTM1NTcsLTE0NDkyMjIzND
 ddfQ==
