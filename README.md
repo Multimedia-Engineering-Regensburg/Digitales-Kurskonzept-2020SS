@@ -12,7 +12,7 @@ Der Kurs wird auf insgesamt ca. 10 inhaltliche Sitzungen reduziert. Zu jeder Sit
 |---|-------|-------|---------------|---------------|----------|
 |-| 22.04.2020 | **entfällt** | | | |
 |1| 29.04.2020 | Grundlagen Javascript im Browser | | | |
-|3| 06.05.2020 | Grundlagen Versionsverwaltung | | | |
+|3| 06.05.2020 | Grundlagen der (kollaborativen) Versionsverwaltung | | | |
 |4| 13.05.2020 | Javascript-Anwendung modularisieren und strukturieren | | | |
 |5| 20.05.2020 | Dynamische Webanwendungen als Server-/Client-Lösung | | | |
 |6| 27.05.2020 | Sitzungsübergreifende Verwendung von Browseranwendungen | | | |
@@ -20,10 +20,10 @@ Der Kurs wird auf insgesamt ca. 10 inhaltliche Sitzungen reduziert. Zu jeder Sit
 |8| 10.06.2020 | 2D-Animationen und Bildverarbeitung auf dem Canvas
 |9| 17.06.2020 | Softwaredesign und Entwurfsmuster | | | |
 |10| 24.06.2020 | Serverseitige Komponenten programmieren | | | |
-|11| 01.07.2020 |Kollaborative Softwareentwicklung mit Git und Github | | | |
-|12| 08.07.2020 | Projektarbeit: Themenvorstellung und Feature-Pitch | | | |
-|13| 15.07.2020 | Projektarbeit:  | | | |
-|14| 22.07.2020 | | | | |
+|11| 01.07.2020 | Projektarbeit: Themenvorstellung und Feature-Pitch | | | |
+|12| 08.07.2020 | Projektarbeit: Software-Design | | | |
+|13| 15.07.2020 | Projektarbeit: *Proof of Concept* | | | |
+|14| 22.07.2020 | Projektarbeit: | | | |
 ### Vorlesung
 Die Vorlesung wird vollständig durch das Selbststudium mit dem vorhandenen und an relevanten Stellen ergänzten Material durchgeführt. 
 ### Lerngruppen
@@ -63,8 +63,9 @@ Die Studierenden werden zu Beginn des Kurses in Lerngruppen zu max. 6 Teilnehmer
 * [ ] Zusätzliche Tutorials und Informationen vorbereiten
 * [ ] Streams planen und inhaltlich vorbereiten 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTYxMzY5MzgsLTEyNDU0NDA4ODgsLT
-c4NDQ0NTUxNywxNTI4Mjk0MDc4LDU4NTQyNTQ0NCwxOTM5Mjc3
-MTU4LC0xODAwMTY0MDAwLC0xNTc1OTMzNTY2LC0xNDQ0ODU0ND
-A3LC01NTYyMTM1NTcsLTE0NDkyMjIzNDddfQ==
+eyJoaXN0b3J5IjpbNDM5MTI0NDE1LC0xMzE2MTM2OTM4LC0xMj
+Q1NDQwODg4LC03ODQ0NDU1MTcsMTUyODI5NDA3OCw1ODU0MjU0
+NDQsMTkzOTI3NzE1OCwtMTgwMDE2NDAwMCwtMTU3NTkzMzU2Ni
+wtMTQ0NDg1NDQwNywtNTU2MjEzNTU3LC0xNDQ5MjIyMzQ3XX0=
+
 -->
