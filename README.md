@@ -14,11 +14,11 @@ Der Kurs wird auf insgesamt ca. 10 inhaltliche Sitzungen reduziert. Zu jeder Sit
 |1| 29.04.2020 | Grundlagen Javascript im Browser | | | |
 |3| 06.05.2020 | Grundlagen Versionsverwaltung | | | |
 |4| 13.05.2020 | Javascript-Anwendung modularisieren und strukturieren | | | |
-|5| 20.05.2020 | Dynamische Webanwendungen als Server-/Client-Lösung| | | |
-|6| 27.05.2020 | Sitzungsübergreifende Verwendung von Browseranwendungen| | | |
+|5| 20.05.2020 | Dynamische Webanwendungen als Server-/Client-Lösung | | | |
+|6| 27.05.2020 | Sitzungsübergreifende Verwendung von Browseranwendungen | | | |
 |7| 03.06.2020 | Multimedial Inhalte im Browser präsentieren | | | |
-|8| 10.06.2020 | Serverseitige Komponenten programmieren | | | |
-|9| 17.06.2020 | - | | | |
+|8| 10.06.2020 |
+|9| 17.06.2020 | Serverseitige Komponenten programmieren | | | |
 |10| 24.06.2020 | - | | | |
 |11| 01.07.2020 | | | | |
 |12| 08.07.2020 | | | | |
@@ -64,8 +64,8 @@ Die Vorlesung wird vollständig durch das Selbststudium mit dem vorhandenen und 
 * [ ] Zusätzliche Tutorials und Informationen vorbereiten
 * [ ] Streams planen und inhaltlich vorbereiten 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMTU5NTUzMSwtNzg0NDQ1NTE3LDE1Mj
-gyOTQwNzgsNTg1NDI1NDQ0LDE5MzkyNzcxNTgsLTE4MDAxNjQw
-MDAsLTE1NzU5MzM1NjYsLTE0NDQ4NTQ0MDcsLTU1NjIxMzU1Ny
-wtMTQ0OTIyMjM0N119
+eyJoaXN0b3J5IjpbLTE4MDY2MzM2MDQsLTc4NDQ0NTUxNywxNT
+I4Mjk0MDc4LDU4NTQyNTQ0NCwxOTM5Mjc3MTU4LC0xODAwMTY0
+MDAwLC0xNTc1OTMzNTY2LC0xNDQ0ODU0NDA3LC01NTYyMTM1NT
+csLTE0NDkyMjIzNDddfQ==
 -->
