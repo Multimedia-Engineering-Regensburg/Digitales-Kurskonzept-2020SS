@@ -34,7 +34,7 @@ Die Studierenden werden zu Beginn des Kurses in Lerngruppen zu max. 6 Teilnehmer
 ### Zentralübung (Praktikum)
 Die Zentralübung bzw. das Praktikum zum Kurs findet als ca. 60 Minütiger Live-Stream statt. Jede Woche werden die vorbereiteten Inhalte auf ein konkretes Entwicklungsbeispiel angewendet. Ausgangspunkt, Aufgabenstellung und Lösungsvorschlag werden den Studierenden zur Verfügung gestellt. Im Rahmen des Live-Streams wird die Lösung schrittweise erarbeitet. Das Vorgehen wird dabei kommentiert und erklärt.
 ### Übungsaufgaben und Betreuung
-Zu jeder inhaltlichen Sitzung wird eine Übungsaufgabe vorbereitet, die zusammen mit dem Material für das Selbststudium am Anfang der Woche bereitgestellt wird. Jeder Studierende fertig einen eigenen Lösungsvorschlag für die Aufgabe an und wir dabei von seiner Lerngruppen und den Tutoren unterstützt. Die Übungsaufgabe orientiert sich thematisch an der jeweiligen Vorlesung. Die Bearbeitungszeit beträgt jeweils eine Woche. Die Materialien werden über *Github Classroom* bereitgestellt und auch über diese Plattform eingereicht. Die Übungsaufgaben dienen als Studienleistungen. werden zei Drittel oder mehr der Aufgaben als bestanden gewertet, gilt die begleitende Studienleistung als abgelegt.
+Zu jeder inhaltlichen Sitzung wird eine Übungsaufgabe vorbereitet, die zusammen mit dem Material für das Selbststudium am Anfang der Woche bereitgestellt wird. Jeder Studierende fertig einen eigenen Lösungsvorschlag für die Aufgabe an und wir dabei von seiner Lerngruppen und den Tutoren unterstützt. Die Übungsaufgabe orientiert sich thematisch an der jeweiligen Vorlesung. Die Bearbeitungszeit beträgt jeweils eine Woche. Die Materialien werden über *Github Classroom* bereitgestellt und auch über diese Plattform eingereicht. Die Übungsaufgaben dienen als Studienleistungen. Werden zwei Drittel oder mehr der Aufgaben als bestanden gewertet, gilt die begleitende Studienleistung als abgelegt.
 #### Betreuung der Lerngruppen
 Die Lerngruppen werden vorrangig über private Chat-Kanäle im [Rocket Chat](https://chat.ur.de) der Universität Regensburg betreut. Links zu Materialien und Arbeitsanweisungen werden über diese verteilt. Der Text-Chat dient als erste Anlaufstelle bei Problemen oder Fragen. Jeder Gruppe
 #### Live-Coaching
@@ -42,7 +42,7 @@ Die Lerngruppen werden vorrangig über private Chat-Kanäle im [Rocket Chat](htt
 #### Bewertung der Übungsaufgaben
 Alle Übungsaufgaben werden von den Tutoren  hinsichtlich der funktionalen Vollständigkeit und der Erfüllung grundsätzlicher Qualitätsanfoderungen kontrolliert. Feedback erhalten die Studierenden in Form einer kurzen Bewertungsmatrix. 
 #### Peer Review
-Die Lösungen der Studierenden werden innerhalb der Lerngruppen ausgetauscht. Jeder Studierende fertig ein *Code Review* zum Lösungsvorschlag eines Kommiltonen an. Die Zuordnug und Vorbereitung, inkl. einer entsprechenden Checkliste für die Anfertigung des eigentlichen Reviews, werd
+Die Lösungen der Studierenden werden innerhalb der Lerngruppen ausgetauscht. Jeder Studierende fertig ein *Code Review* zum Lösungsvorschlag eines Kommiltonen an. Die Zuordnug und Vorbereitung, inkl. einer entsprechenden Checkliste für die Anfertigung des eigentlichen Reviews, werden über Direktnachrichten im Rocket-Chat verteilt. Dazu wird die Lösung - ohne Versionsinformationen - in ein neues Repository kopiert. Di 
 
 
 ### Projekte
@@ -73,7 +73,7 @@ Die Lösungen der Studierenden werden innerhalb der Lerngruppen ausgetauscht. Je
 * [ ] Zusätzliche Tutorials und Informationen vorbereiten
 * [ ] Streams planen und inhaltlich vorbereiten 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYzMTg5Nzc4LDE4NTg0ODE1MDQsMjg0ND
+eyJoaXN0b3J5IjpbMzY5MjE5NDcwLDE4NTg0ODE1MDQsMjg0ND
 YyMjIwLDEyOTU0NjIxMywtMTY5OTc0MjkyMCwtMTM1MDg0MTE4
 MiwtMTMxNjEzNjkzOCwtMTI0NTQ0MDg4OCwtNzg0NDQ1NTE3LD
 E1MjgyOTQwNzgsNTg1NDI1NDQ0LDE5MzkyNzcxNTgsLTE4MDAx
