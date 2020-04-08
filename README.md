@@ -36,7 +36,9 @@ Die Zentralübung bzw. das Projektseminar zum Kurs findet als ca. 60 Minütiger 
 ### Übungsaufgaben und Betreuung
 Zu jeder inhaltlichen Sitzung wird eine Übungsaufgabe vorbereitet, die zusammen mit dem Material für das Selbststudium am Anfang der Woche bereitgestellt wird. Jeder Studierende fertig einen eigenen Lösungsvorschlag für die Aufgabe an und wir dabei von seiner Lerngruppen und den Tutoren unterstützt. Die Übungsaufgabe orientiert sich thematisch an der jeweiligen Vorlesung. Die Bearbeitungszeit beträgt jeweils eine Woche. Die Materialien werden über *Github Classroom* bereitgestellt und auch über diese Plattform eingereicht. Die Übungsaufgaben dienen als Studienleistungen. Werden zwei Drittel oder mehr der Aufgaben als bestanden gewertet, gilt die begleitende Studienleistung als abgelegt.
 #### Betreuung der Lerngruppen
-Die Lerngruppen werden vorrangig über private Chat-Kanäle im [Rocket Chat](https://chat.ur.de) der Universität Regensburg betreut. Links zu Materialien und Arbeitsanweisungen werden über diese verteilt. Der Text-Chat dient als erste Anlaufstelle bei Problemen oder Fragen. Jeder Gruppe ist ein Tutor zugeordnet, der diese begleitende unterstützt. Grundsätzlich ist, aufgrund des hohen Aufwands, eine Beschränkung auf Textkommunikation denkbar. Ggf. kann aber auch ein regelmäßiger Video-Termin vereinbart werden. Dieser sollte der Besprechung von Ergebnissen, weniger dem gemeinsamen Coding, dienen. Zu 
+Die Lerngruppen werden vorrangig über private Chat-Kanäle im [Rocket Chat](https://chat.ur.de) der Universität Regensburg betreut. Links zu Materialien und Arbeitsanweisungen werden über diese verteilt. Der Text-Chat dient als erste Anlaufstelle bei Problemen oder Fragen. Jeder Gruppe ist ein Tutor zugeordnet, der diese begleitende unterstützt. Grundsätzlich ist, aufgrund des hohen Aufwands, eine Beschränkung auf Textkommunikation denkbar. Ggf. kann aber auch ein regelmäßiger Video-Termin vereinbart werden. Dieser sollte der Besprechung von Ergebnissen, weniger dem gemeinsamen Coding, dienen. Zu jeder Übungsaufgabe wird ein Skript für ein entsprechende Feedback-Gespräch erarbeitet.
+##### Gruppengröße
+Im Kurs werden ca. 60 TeilnehmerInnen erwartet. 
 #### Live-Coaching
 -
 #### Bewertung der Übungsaufgaben
@@ -71,7 +73,7 @@ Die Lösungen der Studierenden werden innerhalb der Lerngruppen ausgetauscht. Je
 * [ ] Zusätzliche Tutorials und Informationen vorbereiten
 * [ ] Streams planen und inhaltlich vorbereiten 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNTY4NTUxMCwtMTgxNDE4NDU5MSwxOD
+eyJoaXN0b3J5IjpbLTEwOTYyOTcwNCwtMTgxNDE4NDU5MSwxOD
 U4NDgxNTA0LDI4NDQ2MjIyMCwxMjk1NDYyMTMsLTE2OTk3NDI5
 MjAsLTEzNTA4NDExODIsLTEzMTYxMzY5MzgsLTEyNDU0NDA4OD
 gsLTc4NDQ0NTUxNywxNTI4Mjk0MDc4LDU4NTQyNTQ0NCwxOTM5
