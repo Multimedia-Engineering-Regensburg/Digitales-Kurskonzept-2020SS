@@ -36,11 +36,9 @@ Die Zentralübung bzw. das Projektseminar zum Kurs findet als ca. 60 Minütiger 
 ### Übungsaufgaben und Betreuung
 Zu jeder inhaltlichen Sitzung wird eine Übungsaufgabe vorbereitet, die zusammen mit dem Material für das Selbststudium am Anfang der Woche bereitgestellt wird. Jeder Studierende fertig einen eigenen Lösungsvorschlag für die Aufgabe an und wir dabei von seiner Lerngruppen und den Tutoren unterstützt. Die Übungsaufgabe orientiert sich thematisch an der jeweiligen Vorlesung. Die Bearbeitungszeit beträgt jeweils eine Woche. Die Materialien werden über *Github Classroom* bereitgestellt und auch über diese Plattform eingereicht. Die Übungsaufgaben dienen als Studienleistungen. Werden zwei Drittel oder mehr der Aufgaben als bestanden gewertet, gilt die begleitende Studienleistung als abgelegt.
 #### Betreuung der Lerngruppen
-Die Lerngruppen werden vorrangig über private Chat-Kanäle im [Rocket Chat](https://chat.ur.de) der Universität Regensburg betreut. Links zu Materialien und Arbeitsanweisungen werden über diese verteilt. Der Text-Chat dient als erste Anlaufstelle bei Problemen oder Fragen. Jeder Gruppe ist ein Tutor zugeordnet, der diese begleitende unterstützt. Grundsätzlich ist, aufgrund des hohen Aufwands, eine Beschränkung auf Textkommunikation denkbar. Ggf. kann aber auch ein regelmäßiger Video-Termin vereinbart werden. Dieser sollte der Besprechung von Ergebnissen, weniger dem gemeinsamen Coding, dienen. Zu jeder Übungsaufgabe wird ein Skript für ein entsprechende Feedback-Gespräch erarbeitet.
+Die Lerngruppen werden vorrangig über private Chat-Kanäle im [Rocket Chat](https://chat.ur.de) der Universität Regensburg betreut. Links zu Materialien und Arbeitsanweisungen werden über diese verteilt. Der Text-Chat dient als erste Anlaufstelle bei Problemen oder Fragen. Jeder Gruppe ist ein Tutor zugeordnet, der diese begleitende unterstützt. Grundsätzlich ist, aufgrund des hohen Aufwands, eine Beschränkung auf Textkommunikation denkbar. Ggf. kann aber auch ein regelmäßiger Video-Termin vereinbart werden. Dieser sollte der Besprechung von Ergebnissen, weniger dem gemeinsamen Coding, dienen. Zu jeder Übungsaufgabe wird ein Skript für ein entsprechende Feedback-Gespräch (*Live-Coaching*) erarbeitet.
 ##### Gruppengröße
 Im Kurs werden ca. 60 TeilnehmerInnen erwartet. Bei einer Gruppengröße von 6 Leuten ergibt sich eine maximale Anzahl von 10 zu betreuenden Gruppen. 
-#### Live-Coaching
--
 #### Bewertung der Übungsaufgaben
 Alle Übungsaufgaben werden von den Tutoren  hinsichtlich der funktionalen Vollständigkeit und der Erfüllung grundsätzlicher Qualitätsanfoderungen kontrolliert. Feedback erhalten die Studierenden in Form einer kurzen Bewertungsmatrix. 
 #### Peer Review
@@ -60,23 +58,20 @@ Die Lösungen der Studierenden werden innerhalb der Lerngruppen ausgetauscht. Je
 - Client-seitig wird [OBS](https://obsproject.com/de) verwendet
 - Alle Streams werden kurzfristig über Twitch archiviert, heruntergeladen und dauerhaft über andere Systeme verteilt (z.B. Mediathek der Uni oder YouTube)
 - Für das Streamen/Aufzeichnen wird ein UR-gebrandetes Overlay bzw. Szenenpaket entwickelt
-#### Hardware
-- Uni-Workstation oder persönlicher Rechner
-- Kondensatormikrofon an USB-Audio-Interface
-- Webcam (Logitech C920) oder professionelle Kamera an HDMI-Interface
 ### Live-Coaching bzw. Online-Sprechstunden
-- Als Plattform für das Live-Coaching werden einzelne Kanäle auf [Discord](https://discordapp.com/) oder eine ähnliche Umgebung (z.B. der [Rocket-Chat der Universität Regensburg]([https://chat.ur.de](https://chat.ur.de/)) eingesetzt
+- Als Plattform für das Live-Coaching werden einzelne Kanäle im  [Rocket-Chat der Universität Regensburg]([https://chat.ur.de](https://chat.ur.de/)) eingesetzt
 ## TODOs
-> Unvollständig
 
-* [ ] Hardware (Webcams) für Tutorn besorgen
+* [ ] Semesterplan überarbeiten
+* [ ] Texte zu Lektionen zusammen fassen
+* [ ] Kleine Übungsua
 * [ ] Zusätzliche Tutorials und Informationen vorbereiten
 * [ ] Streams planen und inhaltlich vorbereiten 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjE2Njk4MDUsLTE4MTQxODQ1OTEsMT
-g1ODQ4MTUwNCwyODQ0NjIyMjAsMTI5NTQ2MjEzLC0xNjk5NzQy
-OTIwLC0xMzUwODQxMTgyLC0xMzE2MTM2OTM4LC0xMjQ1NDQwOD
-g4LC03ODQ0NDU1MTcsMTUyODI5NDA3OCw1ODU0MjU0NDQsMTkz
-OTI3NzE1OCwtMTgwMDE2NDAwMCwtMTU3NTkzMzU2NiwtMTQ0ND
-g1NDQwNywtNTU2MjEzNTU3LC0xNDQ5MjIyMzQ3XX0=
+eyJoaXN0b3J5IjpbLTI5NDAzOTE2NiwtMTgxNDE4NDU5MSwxOD
+U4NDgxNTA0LDI4NDQ2MjIyMCwxMjk1NDYyMTMsLTE2OTk3NDI5
+MjAsLTEzNTA4NDExODIsLTEzMTYxMzY5MzgsLTEyNDU0NDA4OD
+gsLTc4NDQ0NTUxNywxNTI4Mjk0MDc4LDU4NTQyNTQ0NCwxOTM5
+Mjc3MTU4LC0xODAwMTY0MDAwLC0xNTc1OTMzNTY2LC0xNDQ0OD
+U0NDA3LC01NTYyMTM1NTcsLTE0NDkyMjIzNDddfQ==
 -->
