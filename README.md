@@ -38,7 +38,7 @@ Zu jeder inhaltlichen Sitzung wird eine Übungsaufgabe vorbereitet, die zusammen
 #### Betreuung der Lerngruppen
 Die Lerngruppen werden vorrangig über private Chat-Kanäle im [Rocket Chat](https://chat.ur.de) der Universität Regensburg betreut. Links zu Materialien und Arbeitsanweisungen werden über diese verteilt. Der Text-Chat dient als erste Anlaufstelle bei Problemen oder Fragen. Jeder Gruppe ist ein Tutor zugeordnet, der diese begleitende unterstützt. Grundsätzlich ist, aufgrund des hohen Aufwands, eine Beschränkung auf Textkommunikation denkbar. Ggf. kann aber auch ein regelmäßiger Video-Termin vereinbart werden. Dieser sollte der Besprechung von Ergebnissen, weniger dem gemeinsamen Coding, dienen. Zu jeder Übungsaufgabe wird ein Skript für ein entsprechende Feedback-Gespräch erarbeitet.
 ##### Gruppengröße
-Im Kurs werden ca. 60 TeilnehmerInnen erwartet. 
+Im Kurs werden ca. 60 TeilnehmerInnen erwartet. Bei einer Gruppengröße von 6 Leuten ergibt sich eine maximale Anzahl von 10 zu betreuenden Gruppen. 
 #### Live-Coaching
 -
 #### Bewertung der Übungsaufgaben
@@ -73,10 +73,10 @@ Die Lösungen der Studierenden werden innerhalb der Lerngruppen ausgetauscht. Je
 * [ ] Zusätzliche Tutorials und Informationen vorbereiten
 * [ ] Streams planen und inhaltlich vorbereiten 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTYyOTcwNCwtMTgxNDE4NDU5MSwxOD
-U4NDgxNTA0LDI4NDQ2MjIyMCwxMjk1NDYyMTMsLTE2OTk3NDI5
-MjAsLTEzNTA4NDExODIsLTEzMTYxMzY5MzgsLTEyNDU0NDA4OD
-gsLTc4NDQ0NTUxNywxNTI4Mjk0MDc4LDU4NTQyNTQ0NCwxOTM5
-Mjc3MTU4LC0xODAwMTY0MDAwLC0xNTc1OTMzNTY2LC0xNDQ0OD
-U0NDA3LC01NTYyMTM1NTcsLTE0NDkyMjIzNDddfQ==
+eyJoaXN0b3J5IjpbLTE0NjE2Njk4MDUsLTE4MTQxODQ1OTEsMT
+g1ODQ4MTUwNCwyODQ0NjIyMjAsMTI5NTQ2MjEzLC0xNjk5NzQy
+OTIwLC0xMzUwODQxMTgyLC0xMzE2MTM2OTM4LC0xMjQ1NDQwOD
+g4LC03ODQ0NDU1MTcsMTUyODI5NDA3OCw1ODU0MjU0NDQsMTkz
+OTI3NzE1OCwtMTgwMDE2NDAwMCwtMTU3NTkzMzU2NiwtMTQ0ND
+g1NDQwNywtNTU2MjEzNTU3LC0xNDQ5MjIyMzQ3XX0=
 -->
