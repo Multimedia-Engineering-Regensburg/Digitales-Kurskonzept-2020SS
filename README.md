@@ -64,11 +64,11 @@ Die Lösungen der Studierenden werden innerhalb der Lerngruppen ausgetauscht. Je
 
 * [ ] Semesterplan überarbeiten
 * [ ] Texte zu Lektionen zusammen fassen
-* [ ] Kleine Übungsua
+* [ ] Kleine Übungsaufgaben und Quizes zu allen Lektionen erstellen
 * [ ] Zusätzliche Tutorials und Informationen vorbereiten
 * [ ] Streams planen und inhaltlich vorbereiten 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NDAzOTE2NiwtMTgxNDE4NDU5MSwxOD
+eyJoaXN0b3J5IjpbMTE2NTEyNzk1MywtMTgxNDE4NDU5MSwxOD
 U4NDgxNTA0LDI4NDQ2MjIyMCwxMjk1NDYyMTMsLTE2OTk3NDI5
 MjAsLTEzNTA4NDExODIsLTEzMTYxMzY5MzgsLTEyNDU0NDA4OD
 gsLTc4NDQ0NTUxNywxNTI4Mjk0MDc4LDU4NTQyNTQ0NCwxOTM5
