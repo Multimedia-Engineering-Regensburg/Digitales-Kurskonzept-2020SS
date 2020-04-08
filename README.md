@@ -36,13 +36,13 @@ Die Zentralübung bzw. das Projektseminar zum Kurs findet als ca. 60 Minütiger 
 ### Übungsaufgaben und Betreuung
 Zu jeder inhaltlichen Sitzung wird eine Übungsaufgabe vorbereitet, die zusammen mit dem Material für das Selbststudium am Anfang der Woche bereitgestellt wird. Jeder Studierende fertig einen eigenen Lösungsvorschlag für die Aufgabe an und wir dabei von seiner Lerngruppen und den Tutoren unterstützt. Die Übungsaufgabe orientiert sich thematisch an der jeweiligen Vorlesung. Die Bearbeitungszeit beträgt jeweils eine Woche. Die Materialien werden über *Github Classroom* bereitgestellt und auch über diese Plattform eingereicht. Die Übungsaufgaben dienen als Studienleistungen. Werden zwei Drittel oder mehr der Aufgaben als bestanden gewertet, gilt die begleitende Studienleistung als abgelegt.
 #### Betreuung der Lerngruppen
-Die Lerngruppen werden vorrangig über private Chat-Kanäle im [Rocket Chat](https://chat.ur.de) der Universität Regensburg betreut. Links zu Materialien und Arbeitsanweisungen werden über diese verteilt. Der Text-Chat dient als erste Anlaufstelle bei Problemen oder Fragen. Jeder Gruppe
+Die Lerngruppen werden vorrangig über private Chat-Kanäle im [Rocket Chat](https://chat.ur.de) der Universität Regensburg betreut. Links zu Materialien und Arbeitsanweisungen werden über diese verteilt. Der Text-Chat dient als erste Anlaufstelle bei Problemen oder Fragen. Jeder Gruppe ist
 #### Live-Coaching
 -
 #### Bewertung der Übungsaufgaben
 Alle Übungsaufgaben werden von den Tutoren  hinsichtlich der funktionalen Vollständigkeit und der Erfüllung grundsätzlicher Qualitätsanfoderungen kontrolliert. Feedback erhalten die Studierenden in Form einer kurzen Bewertungsmatrix. 
 #### Peer Review
-Die Lösungen der Studierenden werden innerhalb der Lerngruppen ausgetauscht. Jeder Studierende fertig ein *Code Review* zum Lösungsvorschlag eines Kommiltonen an. Die Zuordnug und Vorbereitung, inkl. einer entsprechenden Checkliste für die Anfertigung des eigentlichen Reviews, werden über Direktnachrichten im Rocket-Chat verteilt. Dazu wird die Lösung - ohne Versionsinformationen - in ein neues Repository kopiert. Dieses wird dem Reviewer zur Verfügung gestellt. Nachdem das Review dort eingegangen ist, 
+Die Lösungen der Studierenden werden innerhalb der Lerngruppen ausgetauscht. Jeder Studierende fertig ein *Code Review* zum Lösungsvorschlag eines Kommiltonen an. Die Zuordnug und Vorbereitung, inkl. einer entsprechenden Checkliste für die Anfertigung des eigentlichen Reviews, werden über Direktnachrichten im Rocket-Chat verteilt. Bei der Organisation ist eine vollständig anonyme Zuordnung ebenso denkbar, wie eine Lösung, die den beiden beteiligten Studierendne
 
 ### Projekte
 > Genaue Ausgestaltung noch sehr unklar
@@ -72,10 +72,10 @@ Die Lösungen der Studierenden werden innerhalb der Lerngruppen ausgetauscht. Je
 * [ ] Zusätzliche Tutorials und Informationen vorbereiten
 * [ ] Streams planen und inhaltlich vorbereiten 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTQxODQ1OTEsMTg1ODQ4MTUwNCwyOD
-Q0NjIyMjAsMTI5NTQ2MjEzLC0xNjk5NzQyOTIwLC0xMzUwODQx
-MTgyLC0xMzE2MTM2OTM4LC0xMjQ1NDQwODg4LC03ODQ0NDU1MT
-csMTUyODI5NDA3OCw1ODU0MjU0NDQsMTkzOTI3NzE1OCwtMTgw
-MDE2NDAwMCwtMTU3NTkzMzU2NiwtMTQ0NDg1NDQwNywtNTU2Mj
-EzNTU3LC0xNDQ5MjIyMzQ3XX0=
+eyJoaXN0b3J5IjpbLTEwMDM4OTQ5MDgsLTE4MTQxODQ1OTEsMT
+g1ODQ4MTUwNCwyODQ0NjIyMjAsMTI5NTQ2MjEzLC0xNjk5NzQy
+OTIwLC0xMzUwODQxMTgyLC0xMzE2MTM2OTM4LC0xMjQ1NDQwOD
+g4LC03ODQ0NDU1MTcsMTUyODI5NDA3OCw1ODU0MjU0NDQsMTkz
+OTI3NzE1OCwtMTgwMDE2NDAwMCwtMTU3NTkzMzU2NiwtMTQ0ND
+g1NDQwNywtNTU2MjEzNTU3LC0xNDQ5MjIyMzQ3XX0=
 -->
