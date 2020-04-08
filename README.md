@@ -42,8 +42,7 @@ Die Lerngruppen werden vorrangig über private Chat-Kanäle im [Rocket Chat](htt
 #### Bewertung der Übungsaufgaben
 Alle Übungsaufgaben werden von den Tutoren  hinsichtlich der funktionalen Vollständigkeit und der Erfüllung grundsätzlicher Qualitätsanfoderungen kontrolliert. Feedback erhalten die Studierenden in Form einer kurzen Bewertungsmatrix. 
 #### Peer Review
-Die Lösungen der Studierenden werden innerhalb der Lerngruppen ausgetauscht. Jeder Studierende fertig ein *Code Review* zum Lösungsvorschlag eines Kommiltonen an. Die Zuordnug und Vorbereitung, inkl. einer entsprechenden Checkliste für die Anfertigung des eigentlichen Reviews, werden über Direktnachrichten im Rocket-Chat verteilt. Dazu wird die Lösung - ohne Versionsinformationen - in ein neues Repository kopiert. Di 
-
+Die Lösungen der Studierenden werden innerhalb der Lerngruppen ausgetauscht. Jeder Studierende fertig ein *Code Review* zum Lösungsvorschlag eines Kommiltonen an. Die Zuordnug und Vorbereitung, inkl. einer entsprechenden Checkliste für die Anfertigung des eigentlichen Reviews, werden über Direktnachrichten im Rocket-Chat verteilt. Dazu wird die Lösung - ohne Versionsinformationen - in ein neues Repository kopiert. Dieses wird dem Reviewer zur Verfügung gestellt. Nachdem das Review dort eingegangen ist, 
 
 ### Projekte
 > Genaue Ausgestaltung noch sehr unklar
@@ -73,10 +72,10 @@ Die Lösungen der Studierenden werden innerhalb der Lerngruppen ausgetauscht. Je
 * [ ] Zusätzliche Tutorials und Informationen vorbereiten
 * [ ] Streams planen und inhaltlich vorbereiten 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY5MjE5NDcwLDE4NTg0ODE1MDQsMjg0ND
-YyMjIwLDEyOTU0NjIxMywtMTY5OTc0MjkyMCwtMTM1MDg0MTE4
-MiwtMTMxNjEzNjkzOCwtMTI0NTQ0MDg4OCwtNzg0NDQ1NTE3LD
-E1MjgyOTQwNzgsNTg1NDI1NDQ0LDE5MzkyNzcxNTgsLTE4MDAx
-NjQwMDAsLTE1NzU5MzM1NjYsLTE0NDQ4NTQ0MDcsLTU1NjIxMz
-U1NywtMTQ0OTIyMjM0N119
+eyJoaXN0b3J5IjpbLTE1MjEwMDgwNzEsMTg1ODQ4MTUwNCwyOD
+Q0NjIyMjAsMTI5NTQ2MjEzLC0xNjk5NzQyOTIwLC0xMzUwODQx
+MTgyLC0xMzE2MTM2OTM4LC0xMjQ1NDQwODg4LC03ODQ0NDU1MT
+csMTUyODI5NDA3OCw1ODU0MjU0NDQsMTkzOTI3NzE1OCwtMTgw
+MDE2NDAwMCwtMTU3NTkzMzU2NiwtMTQ0NDg1NDQwNywtNTU2Mj
+EzNTU3LC0xNDQ5MjIyMzQ3XX0=
 -->
