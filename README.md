@@ -34,9 +34,10 @@ Die Studierenden werden zu Beginn des Kurses in Lerngruppen zu max. 6 Teilnehmer
 ### Zentralübung (Praktikum)
 Die Zentralübung bzw. das Praktikum zum Kurs findet als ca. 60 Minütiger Live-Stream statt. Jede Woche werden die vorbereiteten Inhalte auf ein konkretes Entwicklungsbeispiel angewendet. Ausgangspunkt, Aufgabenstellung und Lösungsvorschlag werden den Studierenden zur Verfügung gestellt. Im Rahmen des Live-Streams wird die Lösung schrittweise erarbeitet. Das Vorgehen wird dabei kommentiert und erklärt.
 ### Übungsaufgaben und Betreuung
-Zu jeder inhaltlichen Sitzung wird eine Übungsaufgabe vorbereitet, die zusammen mit dem Material für das Selbststudium am Anfang der Woche bereitgestellt wird. Jeder Studierende fertig einen eigenen Lösungsvorschlag für die Aufgabe an und wir dabei von seiner Lerngruppen und den Tutoren unterstützt. Die Übungsaufgabe orientiert sich thematisch an der jeweiligen Vorlesung. Die Bearbeitungszeit beträgt jeweils eine Woche 
+Zu jeder inhaltlichen Sitzung wird eine Übungsaufgabe vorbereitet, die zusammen mit dem Material für das Selbststudium am Anfang der Woche bereitgestellt wird. Jeder Studierende fertig einen eigenen Lösungsvorschlag für die Aufgabe an und wir dabei von seiner Lerngruppen und den Tutoren unterstützt. Die Übungsaufgabe orientiert sich thematisch an der jeweiligen Vorlesung. Die Bearbeitungszeit beträgt jeweils eine Woche. Die Materialien werden über *Github Classroom* bereitgestellt und auch über diese Plattform eingerichtet. Die Übungsaufgaben dienen als Studienleistungen. Von den 
 #### Betreuung der Lerngruppen
 #### Bewertung der Übungsaufgaben
+Alle 
 #### Peer Review
 ### Projekte
 > Genaue Ausgestaltung noch sehr unklar
@@ -66,10 +67,10 @@ Zu jeder inhaltlichen Sitzung wird eine Übungsaufgabe vorbereitet, die zusammen
 * [ ] Zusätzliche Tutorials und Informationen vorbereiten
 * [ ] Streams planen und inhaltlich vorbereiten 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMzU5NjU2MiwyODQ0NjIyMjAsMTI5NT
-Q2MjEzLC0xNjk5NzQyOTIwLC0xMzUwODQxMTgyLC0xMzE2MTM2
-OTM4LC0xMjQ1NDQwODg4LC03ODQ0NDU1MTcsMTUyODI5NDA3OC
-w1ODU0MjU0NDQsMTkzOTI3NzE1OCwtMTgwMDE2NDAwMCwtMTU3
-NTkzMzU2NiwtMTQ0NDg1NDQwNywtNTU2MjEzNTU3LC0xNDQ5Mj
-IyMzQ3XX0=
+eyJoaXN0b3J5IjpbNzYzNjc5MzUwLDI4NDQ2MjIyMCwxMjk1ND
+YyMTMsLTE2OTk3NDI5MjAsLTEzNTA4NDExODIsLTEzMTYxMzY5
+MzgsLTEyNDU0NDA4ODgsLTc4NDQ0NTUxNywxNTI4Mjk0MDc4LD
+U4NTQyNTQ0NCwxOTM5Mjc3MTU4LC0xODAwMTY0MDAwLC0xNTc1
+OTMzNTY2LC0xNDQ0ODU0NDA3LC01NTYyMTM1NTcsLTE0NDkyMj
+IzNDddfQ==
 -->
