@@ -32,7 +32,7 @@ Die Vorlesung wird vollständig durch das Selbststudium mit dem vorhandenen und 
 ### Lerngruppen
 Die Studierenden werden zu Beginn des Kurses in Lerngruppen zu max. 6 TeilnehmerInnen aufgeteilt. Diese Gruppen sind Basis für das Live-Coaching durch die TutorInnen. Außerhalb dieser Präsenzzeit sollen die Gruppen das gemeinsame Selbststudium unterstützten. Die Studierenden werden angehalten, bei der Erarbeitung von Lösungsvorschlägen zusammenzuarbeiten und die eigenen Vorschläge zu diskutieren.  Zur Unterstützung wird jeder Gruppe ein privater Kanal im Chat-System der Universität bereitgestellt, über den die Tutoren während des Live-Coaching aber auch außerhalb dieser Zeiten, asynchron, den Kontakt zu den Studierenden pflegen.
 ### Zentralübung (Praktikum)
-Die Zentralübung bzw. das Praktikum zum Kurs findet als Live-Stream statt. Jede Woche werden die vorbereiteten Inhalte auf ein konkretes Entwicklungsbeispiel angewendet. Die Umsetzung wird 
+Die Zentralübung bzw. das Praktikum zum Kurs findet als ca. 60 Minütiger Live-Stream statt. Jede Woche werden die vorbereiteten Inhalte auf ein konkretes Entwicklungsbeispiel angewendet. Ausgangspunkt, Aufgabenstellung und Lösungsvorschlag werden den Studierenden zur Verfügung gestellt. Im Rahmen des Live-Streams wird die Lösung schrittweise erarbeitet. Das Vorgehen wird dabei kommentiert und erkjkl
 
 ### Übungsaufgaben und Betreuung
 
@@ -66,9 +66,10 @@ Die Zentralübung bzw. das Praktikum zum Kurs findet als Live-Stream statt. Jede
 * [ ] Zusätzliche Tutorials und Informationen vorbereiten
 * [ ] Streams planen und inhaltlich vorbereiten 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg0NDYyMjIwLDEyOTU0NjIxMywtMTY5OT
-c0MjkyMCwtMTM1MDg0MTE4MiwtMTMxNjEzNjkzOCwtMTI0NTQ0
-MDg4OCwtNzg0NDQ1NTE3LDE1MjgyOTQwNzgsNTg1NDI1NDQ0LD
-E5MzkyNzcxNTgsLTE4MDAxNjQwMDAsLTE1NzU5MzM1NjYsLTE0
-NDQ4NTQ0MDcsLTU1NjIxMzU1NywtMTQ0OTIyMjM0N119
+eyJoaXN0b3J5IjpbLTEyMTM0MzA2ODksMjg0NDYyMjIwLDEyOT
+U0NjIxMywtMTY5OTc0MjkyMCwtMTM1MDg0MTE4MiwtMTMxNjEz
+NjkzOCwtMTI0NTQ0MDg4OCwtNzg0NDQ1NTE3LDE1MjgyOTQwNz
+gsNTg1NDI1NDQ0LDE5MzkyNzcxNTgsLTE4MDAxNjQwMDAsLTE1
+NzU5MzM1NjYsLTE0NDQ4NTQ0MDcsLTU1NjIxMzU1NywtMTQ0OT
+IyMjM0N119
 -->
