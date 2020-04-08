@@ -12,7 +12,7 @@ Der Kurs wird auf insgesamt ca. 10 inhaltliche Sitzungen reduziert. Zu jeder Sit
 |---|-------|-------|---------------|---------------|----------|
 |-| 22.04.2020 | **entfällt** | | | |
 |1| 29.04.2020 | Grundlagen Javascript im Browser | | | |
-|3| 06.05.2020 | Grundlagen der (kollaborativen) Versionsverwaltung | | | |
+|2| 06.05.2020 | Grundlagen der (kollaborativen) Versionsverwaltung | | | |
 |4| 13.05.2020 | Javascript-Anwendung modularisieren und strukturieren | | | |
 |5| 20.05.2020 | Dynamische Webanwendungen als Server-/Client-Lösung | | | |
 |6| 27.05.2020 | Sitzungsübergreifende Verwendung von Browseranwendungen | | | |
@@ -68,10 +68,11 @@ Die Lösungen der Studierenden werden innerhalb der Lerngruppen ausgetauscht. Je
 * [ ] Zusätzliche Tutorials und Informationen vorbereiten
 * [ ] Streams planen und inhaltlich vorbereiten 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NTEyNzk1MywtMTgxNDE4NDU5MSwxOD
-U4NDgxNTA0LDI4NDQ2MjIyMCwxMjk1NDYyMTMsLTE2OTk3NDI5
-MjAsLTEzNTA4NDExODIsLTEzMTYxMzY5MzgsLTEyNDU0NDA4OD
-gsLTc4NDQ0NTUxNywxNTI4Mjk0MDc4LDU4NTQyNTQ0NCwxOTM5
-Mjc3MTU4LC0xODAwMTY0MDAwLC0xNTc1OTMzNTY2LC0xNDQ0OD
-U0NDA3LC01NTYyMTM1NTcsLTE0NDkyMjIzNDddfQ==
+eyJoaXN0b3J5IjpbLTE4NzcwODIyODgsMTE2NTEyNzk1MywtMT
+gxNDE4NDU5MSwxODU4NDgxNTA0LDI4NDQ2MjIyMCwxMjk1NDYy
+MTMsLTE2OTk3NDI5MjAsLTEzNTA4NDExODIsLTEzMTYxMzY5Mz
+gsLTEyNDU0NDA4ODgsLTc4NDQ0NTUxNywxNTI4Mjk0MDc4LDU4
+NTQyNTQ0NCwxOTM5Mjc3MTU4LC0xODAwMTY0MDAwLC0xNTc1OT
+MzNTY2LC0xNDQ0ODU0NDA3LC01NTYyMTM1NTcsLTE0NDkyMjIz
+NDddfQ==
 -->
