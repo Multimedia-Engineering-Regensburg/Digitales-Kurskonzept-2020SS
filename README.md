@@ -22,8 +22,8 @@ Der Kurs wird auf insgesamt ca. 10 inhaltliche Sitzungen reduziert. Zu jeder Sit
 |10| 24.06.2020 | Serverseitige Komponenten programmieren | | | |
 |11| 01.07.2020 | Projektarbeit: Themenvorstellung und Feature-Pitch | | | |
 |12| 08.07.2020 | Projektarbeit: Software-Design | | | |
-|13| 15.07.2020 | Projektarbeit: *Proof of Concept* | | | |
-|14| 22.07.2020 | Projektarbeit: | | | |
+|13| 15.07.2020 | Projektarbeit: Fragen & Probleme | | | |
+|14| 22.07.2020 | Projektarbeit: *Proof of Concept*| | | |
 ### Vorlesung
 Die Vorlesung wird vollständig durch das Selbststudium mit dem vorhandenen und an relevanten Stellen ergänzten Material durchgeführt. 
 ### Lerngruppen
@@ -63,9 +63,9 @@ Die Studierenden werden zu Beginn des Kurses in Lerngruppen zu max. 6 Teilnehmer
 * [ ] Zusätzliche Tutorials und Informationen vorbereiten
 * [ ] Streams planen und inhaltlich vorbereiten 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM5MTI0NDE1LC0xMzE2MTM2OTM4LC0xMj
-Q1NDQwODg4LC03ODQ0NDU1MTcsMTUyODI5NDA3OCw1ODU0MjU0
-NDQsMTkzOTI3NzE1OCwtMTgwMDE2NDAwMCwtMTU3NTkzMzU2Ni
-wtMTQ0NDg1NDQwNywtNTU2MjEzNTU3LC0xNDQ5MjIyMzQ3XX0=
+eyJoaXN0b3J5IjpbMjA0MzE4MDQ5NCwtMTMxNjEzNjkzOCwtMT
+I0NTQ0MDg4OCwtNzg0NDQ1NTE3LDE1MjgyOTQwNzgsNTg1NDI1
+NDQ0LDE5MzkyNzcxNTgsLTE4MDAxNjQwMDAsLTE1NzU5MzM1Nj
+YsLTE0NDQ4NTQ0MDcsLTU1NjIxMzU1NywtMTQ0OTIyMjM0N119
 
 -->
