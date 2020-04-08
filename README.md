@@ -18,9 +18,9 @@ Der Kurs wird auf insgesamt ca. 10 inhaltliche Sitzungen reduziert. Zu jeder Sit
 |6| 27.05.2020 | Sitzungsübergreifende Verwendung von Browseranwendungen | | | |
 |7| 03.06.2020 | Multimedial Inhalte im Browser präsentieren | | | |
 |8| 10.06.2020 | 2D-Animationen und Bildverarbeitung auf dem Canvas
-|9| 17.06.2020 | Serverseitige Komponenten programmieren | | | |
-|10| 24.06.2020 | - | | | |
-|11| 01.07.2020 | | | | |
+|9| 17.06.2020 | Softwaredesign und Entwurfsmus | | | |
+|10| 24.06.2020 | Serverseitige Komponenten programmieren | | | |
+|11| 01.07.2020 |Kollaborative Softwareentwicklung mit Git und Github | | | |
 |12| 08.07.2020 | | | | |
 |13| 15.07.2020 | | | | |
 |14| 22.07.2020 | | | | |
@@ -63,8 +63,8 @@ Die Studierenden werden zu Beginn des Kurses in Lerngruppen zu max. 6 Teilnehmer
 * [ ] Zusätzliche Tutorials und Informationen vorbereiten
 * [ ] Streams planen und inhaltlich vorbereiten 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDU0NDA4ODgsLTc4NDQ0NTUxNywxNT
-I4Mjk0MDc4LDU4NTQyNTQ0NCwxOTM5Mjc3MTU4LC0xODAwMTY0
-MDAwLC0xNTc1OTMzNTY2LC0xNDQ0ODU0NDA3LC01NTYyMTM1NT
-csLTE0NDkyMjIzNDddfQ==
+eyJoaXN0b3J5IjpbLTE4ODc2MjkyODksLTEyNDU0NDA4ODgsLT
+c4NDQ0NTUxNywxNTI4Mjk0MDc4LDU4NTQyNTQ0NCwxOTM5Mjc3
+MTU4LC0xODAwMTY0MDAwLC0xNTc1OTMzNTY2LC0xNDQ0ODU0ND
+A3LC01NTYyMTM1NTcsLTE0NDkyMjIzNDddfQ==
 -->
