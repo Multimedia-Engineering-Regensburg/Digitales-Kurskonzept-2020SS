@@ -32,7 +32,7 @@ Die Vorlesung wird vollständig durch das Selbststudium mit dem vorhandenen und 
 ### Lerngruppen
 Die Studierenden werden zu Beginn des Kurses in Lerngruppen zu max. 6 TeilnehmerInnen aufgeteilt. Diese Gruppen sind Basis für das Live-Coaching durch die TutorInnen. Außerhalb dieser Präsenzzeit sollen die Gruppen das gemeinsame Selbststudium unterstützten. Die Studierenden werden angehalten, bei der Erarbeitung von Lösungsvorschlägen zusammenzuarbeiten und die eigenen Vorschläge zu diskutieren.  Zur Unterstützung wird jeder Gruppe ein privater Kanal im Chat-System der Universität bereitgestellt, über den die Tutoren während des Live-Coaching aber auch außerhalb dieser Zeiten, asynchron, den Kontakt zu den Studierenden pflegen.
 ### Zentralübung (Praktikum)
-Die Zentralübung bzw. das Praktikum zum Kurs findet als ca. 60 Minütiger Live-Stream statt. Jede Woche werden die vorbereiteten Inhalte auf ein konkretes Entwicklungsbeispiel angewendet. Ausgangspunkt, Aufgabenstellung und Lösungsvorschlag werden den Studierenden zur Verfügung gestellt. Im Rahmen des Live-Streams wird die Lösung schrittweise erarbeitet. Das Vorgehen wird dabei kommentiert und erklärt.
+Die Zentralübung bzw. das Projektseminar zum Kurs findet als ca. 60 Minütiger Live-Stream statt. Jede Woche werden die vorbereiteten Inhalte auf ein konkretes Entwicklungsbeispiel angewendet. Ausgangspunkt, Aufgabenstellung und Lösungsvorschlag werden den Studierenden zur Verfügung gestellt. Im Rahmen des Live-Streams wird die Lösung schrittweise erarbeitet. Das Vorgehen wird dabei kommentiert und erklärt.
 ### Übungsaufgaben und Betreuung
 Zu jeder inhaltlichen Sitzung wird eine Übungsaufgabe vorbereitet, die zusammen mit dem Material für das Selbststudium am Anfang der Woche bereitgestellt wird. Jeder Studierende fertig einen eigenen Lösungsvorschlag für die Aufgabe an und wir dabei von seiner Lerngruppen und den Tutoren unterstützt. Die Übungsaufgabe orientiert sich thematisch an der jeweiligen Vorlesung. Die Bearbeitungszeit beträgt jeweils eine Woche. Die Materialien werden über *Github Classroom* bereitgestellt und auch über diese Plattform eingereicht. Die Übungsaufgaben dienen als Studienleistungen. Werden zwei Drittel oder mehr der Aufgaben als bestanden gewertet, gilt die begleitende Studienleistung als abgelegt.
 #### Betreuung der Lerngruppen
@@ -72,7 +72,7 @@ Die Lösungen der Studierenden werden innerhalb der Lerngruppen ausgetauscht. Je
 * [ ] Zusätzliche Tutorials und Informationen vorbereiten
 * [ ] Streams planen und inhaltlich vorbereiten 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjEwMDgwNzEsMTg1ODQ4MTUwNCwyOD
+eyJoaXN0b3J5IjpbLTE4MTQxODQ1OTEsMTg1ODQ4MTUwNCwyOD
 Q0NjIyMjAsMTI5NTQ2MjEzLC0xNjk5NzQyOTIwLC0xMzUwODQx
 MTgyLC0xMzE2MTM2OTM4LC0xMjQ1NDQwODg4LC03ODQ0NDU1MT
 csMTUyODI5NDA3OCw1ODU0MjU0NDQsMTkzOTI3NzE1OCwtMTgw
