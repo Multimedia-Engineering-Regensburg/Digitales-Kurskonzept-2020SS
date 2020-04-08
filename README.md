@@ -37,8 +37,10 @@ Die Zentralübung bzw. das Praktikum zum Kurs findet als ca. 60 Minütiger Live-
 Zu jeder inhaltlichen Sitzung wird eine Übungsaufgabe vorbereitet, die zusammen mit dem Material für das Selbststudium am Anfang der Woche bereitgestellt wird. Jeder Studierende fertig einen eigenen Lösungsvorschlag für die Aufgabe an und wir dabei von seiner Lerngruppen und den Tutoren unterstützt. Die Übungsaufgabe orientiert sich thematisch an der jeweiligen Vorlesung. Die Bearbeitungszeit beträgt jeweils eine Woche. Die Materialien werden über *Github Classroom* bereitgestellt und auch über diese Plattform eingereicht. Die Übungsaufgaben dienen als Studienleistungen. werden zei Drittel oder mehr der Aufgaben als bestanden gewertet, gilt die begleitende Studienleistung als abgelegt.
 #### Betreuung der Lerngruppen
 Die Lerngruppen werden vorrangig über private Chat-Kanäle im [Rocket Chat](https://chat.ur.de) der Universität Regensburg betreut. Links zu Materialien und Arbeitsanweisungen werden über diese verteilt. Der Text-Chat dient als erste Anlaufstelle bei Problemen oder Fragen. Jeder Gruppe
+#### Live-Coaching
+-
 #### Bewertung der Übungsaufgaben
-Alle 
+Alle Übungsaufgaben werden von den Tutoren  hinsichtlich der funktionalen Vollständigkeit und der Erfüllung grundsätzlicher Qualitätsanfoderungen kontrolliert. Feedback erhalten die Studierenden in Form einer kurzen Bewertungsmatrix
 #### Peer Review
 ### Projekte
 > Genaue Ausgestaltung noch sehr unklar
@@ -68,10 +70,10 @@ Alle
 * [ ] Zusätzliche Tutorials und Informationen vorbereiten
 * [ ] Streams planen und inhaltlich vorbereiten 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1ODQ4MTUwNCwyODQ0NjIyMjAsMTI5NT
-Q2MjEzLC0xNjk5NzQyOTIwLC0xMzUwODQxMTgyLC0xMzE2MTM2
-OTM4LC0xMjQ1NDQwODg4LC03ODQ0NDU1MTcsMTUyODI5NDA3OC
-w1ODU0MjU0NDQsMTkzOTI3NzE1OCwtMTgwMDE2NDAwMCwtMTU3
-NTkzMzU2NiwtMTQ0NDg1NDQwNywtNTU2MjEzNTU3LC0xNDQ5Mj
-IyMzQ3XX0=
+eyJoaXN0b3J5IjpbLTE1MzMwODMzLDE4NTg0ODE1MDQsMjg0ND
+YyMjIwLDEyOTU0NjIxMywtMTY5OTc0MjkyMCwtMTM1MDg0MTE4
+MiwtMTMxNjEzNjkzOCwtMTI0NTQ0MDg4OCwtNzg0NDQ1NTE3LD
+E1MjgyOTQwNzgsNTg1NDI1NDQ0LDE5MzkyNzcxNTgsLTE4MDAx
+NjQwMDAsLTE1NzU5MzM1NjYsLTE0NDQ4NTQ0MDcsLTU1NjIxMz
+U1NywtMTQ0OTIyMjM0N119
 -->
