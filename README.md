@@ -24,7 +24,9 @@ Der Kurs wird auf insgesamt ca. 10 inhaltliche Sitzungen reduziert. Zu jeder Sit
 |12| 08.07.2020 | Projektarbeit: Software-Design | | | |
 |13| 15.07.2020 | Projektarbeit: Fragen & Probleme | | | |
 |14| 22.07.2020 | Projektarbeit: Vorstellung *Proof of Concept*| | | |
+
 Im Anschluss kann die Projektarbeit in der vorlesungsfreien Zeit weiter bearbeitet und verbessert werden.
+
 ### Vorlesung
 Die Vorlesung wird vollständig durch das Selbststudium mit dem vorhandenen und an relevanten Stellen ergänzten Material durchgeführt. 
 ### Lerngruppen
@@ -64,9 +66,9 @@ Die Zentral
 * [ ] Zusätzliche Tutorials und Informationen vorbereiten
 * [ ] Streams planen und inhaltlich vorbereiten 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTk3NDI5MjAsLTEzNTA4NDExODIsLT
-EzMTYxMzY5MzgsLTEyNDU0NDA4ODgsLTc4NDQ0NTUxNywxNTI4
-Mjk0MDc4LDU4NTQyNTQ0NCwxOTM5Mjc3MTU4LC0xODAwMTY0MD
-AwLC0xNTc1OTMzNTY2LC0xNDQ0ODU0NDA3LC01NTYyMTM1NTcs
-LTE0NDkyMjIzNDddfQ==
+eyJoaXN0b3J5IjpbLTI4MjM0MTQ0OCwtMTY5OTc0MjkyMCwtMT
+M1MDg0MTE4MiwtMTMxNjEzNjkzOCwtMTI0NTQ0MDg4OCwtNzg0
+NDQ1NTE3LDE1MjgyOTQwNzgsNTg1NDI1NDQ0LDE5MzkyNzcxNT
+gsLTE4MDAxNjQwMDAsLTE1NzU5MzM1NjYsLTE0NDQ4NTQ0MDcs
+LTU1NjIxMzU1NywtMTQ0OTIyMjM0N119
 -->
