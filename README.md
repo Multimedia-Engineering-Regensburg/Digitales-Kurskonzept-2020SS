@@ -34,8 +34,9 @@ Die Studierenden werden zu Beginn des Kurses in Lerngruppen zu max. 6 Teilnehmer
 ### Zentralübung (Praktikum)
 Die Zentralübung bzw. das Praktikum zum Kurs findet als ca. 60 Minütiger Live-Stream statt. Jede Woche werden die vorbereiteten Inhalte auf ein konkretes Entwicklungsbeispiel angewendet. Ausgangspunkt, Aufgabenstellung und Lösungsvorschlag werden den Studierenden zur Verfügung gestellt. Im Rahmen des Live-Streams wird die Lösung schrittweise erarbeitet. Das Vorgehen wird dabei kommentiert und erklärt.
 ### Übungsaufgaben und Betreuung
-Zu jeder inhaltlichen Sitzung wird eine Übungsaufgabe vorbereitet, die zusammen mit dem Material für das Selbststudium am Anfang der Woche bereitgestellt wird. Jeder Studierende fertig einen eigenen Lösungsvorschlag für die Aufgabe an und wir dabei von seiner Lerngruppen und den Tutoren unterstützt. Die Übungsaufgabe orientiert sich thematisch an der jeweiligen Vorlesung. Die Bearbeitungszeit beträgt jeweils eine Woche. Die Materialien werden über *Github Classroom* bereitgestellt und auch über diese Plattform eingerichtet. Die Übungsaufgaben dienen als Studienleistungen. Von den 
+Zu jeder inhaltlichen Sitzung wird eine Übungsaufgabe vorbereitet, die zusammen mit dem Material für das Selbststudium am Anfang der Woche bereitgestellt wird. Jeder Studierende fertig einen eigenen Lösungsvorschlag für die Aufgabe an und wir dabei von seiner Lerngruppen und den Tutoren unterstützt. Die Übungsaufgabe orientiert sich thematisch an der jeweiligen Vorlesung. Die Bearbeitungszeit beträgt jeweils eine Woche. Die Materialien werden über *Github Classroom* bereitgestellt und auch über diese Plattform eingereicht. Die Übungsaufgaben dienen als Studienleistungen. werden zei Drittel oder mehr der Aufgaben als bestanden gewertet, gilt die begleitende Studienleistung als abgelegt.
 #### Betreuung der Lerngruppen
+Die Lerngruppen werden vorrangig über priv
 #### Bewertung der Übungsaufgaben
 Alle 
 #### Peer Review
@@ -67,10 +68,10 @@ Alle
 * [ ] Zusätzliche Tutorials und Informationen vorbereiten
 * [ ] Streams planen und inhaltlich vorbereiten 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYzNjc5MzUwLDI4NDQ2MjIyMCwxMjk1ND
-YyMTMsLTE2OTk3NDI5MjAsLTEzNTA4NDExODIsLTEzMTYxMzY5
-MzgsLTEyNDU0NDA4ODgsLTc4NDQ0NTUxNywxNTI4Mjk0MDc4LD
-U4NTQyNTQ0NCwxOTM5Mjc3MTU4LC0xODAwMTY0MDAwLC0xNTc1
-OTMzNTY2LC0xNDQ0ODU0NDA3LC01NTYyMTM1NTcsLTE0NDkyMj
-IzNDddfQ==
+eyJoaXN0b3J5IjpbLTE2ODEzNDk2MjgsMjg0NDYyMjIwLDEyOT
+U0NjIxMywtMTY5OTc0MjkyMCwtMTM1MDg0MTE4MiwtMTMxNjEz
+NjkzOCwtMTI0NTQ0MDg4OCwtNzg0NDQ1NTE3LDE1MjgyOTQwNz
+gsNTg1NDI1NDQ0LDE5MzkyNzcxNTgsLTE4MDAxNjQwMDAsLTE1
+NzU5MzM1NjYsLTE0NDQ4NTQ0MDcsLTU1NjIxMzU1NywtMTQ0OT
+IyMjM0N119
 -->
