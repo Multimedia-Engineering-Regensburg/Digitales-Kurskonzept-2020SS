@@ -27,7 +27,7 @@ Der Kurs wird auf insgesamt ca. 10 inhaltliche Sitzungen reduziert. Zu jeder Sit
 ### Vorlesung
 Die Vorlesung wird vollständig durch das Selbststudium mit dem vorhandenen und an relevanten Stellen ergänzten Material durchgeführt. 
 ### Lerngruppen
-Die Studierenden werden zu Beginn des Kurses in Lerngruppen zu max. 6 TeilnehmerInnen aufgeteilt. Diese Gruppen sind Basis für das Live-Coaching durch die TutorInnen. Außerhalb dieser Präsenzzeit sollen die Gruppen das gemeinsame Selbststudium unterstützten. Die Studierenden werden angehalten, bei der Erarbeitung von Lösungsvorschlägen zusammenzuarbeiten und  
+Die Studierenden werden zu Beginn des Kurses in Lerngruppen zu max. 6 TeilnehmerInnen aufgeteilt. Diese Gruppen sind Basis für das Live-Coaching durch die TutorInnen. Außerhalb dieser Präsenzzeit sollen die Gruppen das gemeinsame Selbststudium unterstützten. Die Studierenden werden angehalten, bei der Erarbeitung von Lösungsvorschlägen zusammenzuarbeiten und die eigenen Vorschläge zu diskutieren.  Zur Unterstützung wird jeder Gruppe ein privater Kanal im Chat-System der Universität bereitgestellt, über den die Tutoren während des Live-Coaching aber auch außerhalb dieser Zeiten, asynchron, den Kontakt zu den Studierenden pflegen.
 
 ### Zentralübung (Praktikum)
 
@@ -63,8 +63,8 @@ Die Studierenden werden zu Beginn des Kurses in Lerngruppen zu max. 6 Teilnehmer
 * [ ] Zusätzliche Tutorials und Informationen vorbereiten
 * [ ] Streams planen und inhaltlich vorbereiten 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MzY5MjU2MiwtNzg0NDQ1NTE3LDE1Mj
-gyOTQwNzgsNTg1NDI1NDQ0LDE5MzkyNzcxNTgsLTE4MDAxNjQw
-MDAsLTE1NzU5MzM1NjYsLTE0NDQ4NTQ0MDcsLTU1NjIxMzU1Ny
-wtMTQ0OTIyMjM0N119
+eyJoaXN0b3J5IjpbLTEyNDU0NDA4ODgsLTc4NDQ0NTUxNywxNT
+I4Mjk0MDc4LDU4NTQyNTQ0NCwxOTM5Mjc3MTU4LC0xODAwMTY0
+MDAwLC0xNTc1OTMzNTY2LC0xNDQ0ODU0NDA3LC01NTYyMTM1NT
+csLTE0NDkyMjIzNDddfQ==
 -->
