@@ -18,11 +18,11 @@ Der Kurs wird auf insgesamt ca. 10 inhaltliche Sitzungen reduziert. Zu jeder Sit
 |6| 27.05.2020 | Sitzungsübergreifende Verwendung von Browseranwendungen | | | |
 |7| 03.06.2020 | Multimedial Inhalte im Browser präsentieren | | | |
 |8| 10.06.2020 | 2D-Animationen und Bildverarbeitung auf dem Canvas
-|9| 17.06.2020 | Softwaredesign und Entwurfsmus | | | |
+|9| 17.06.2020 | Softwaredesign und Entwurfsmuster | | | |
 |10| 24.06.2020 | Serverseitige Komponenten programmieren | | | |
 |11| 01.07.2020 |Kollaborative Softwareentwicklung mit Git und Github | | | |
-|12| 08.07.2020 | | | | |
-|13| 15.07.2020 | | | | |
+|12| 08.07.2020 | Projektarbeit: Themenvorstellung und Feature-Pitch | | | |
+|13| 15.07.2020 | Projektarbeit:  | | | |
 |14| 22.07.2020 | | | | |
 ### Vorlesung
 Die Vorlesung wird vollständig durch das Selbststudium mit dem vorhandenen und an relevanten Stellen ergänzten Material durchgeführt. 
@@ -63,7 +63,7 @@ Die Studierenden werden zu Beginn des Kurses in Lerngruppen zu max. 6 Teilnehmer
 * [ ] Zusätzliche Tutorials und Informationen vorbereiten
 * [ ] Streams planen und inhaltlich vorbereiten 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODc2MjkyODksLTEyNDU0NDA4ODgsLT
+eyJoaXN0b3J5IjpbLTEzMTYxMzY5MzgsLTEyNDU0NDA4ODgsLT
 c4NDQ0NTUxNywxNTI4Mjk0MDc4LDU4NTQyNTQ0NCwxOTM5Mjc3
 MTU4LC0xODAwMTY0MDAwLC0xNTc1OTMzNTY2LC0xNDQ0ODU0ND
 A3LC01NTYyMTM1NTcsLTE0NDkyMjIzNDddfQ==
