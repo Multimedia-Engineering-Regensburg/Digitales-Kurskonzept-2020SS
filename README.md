@@ -32,12 +32,11 @@ Die Vorlesung wird vollständig durch das Selbststudium mit dem vorhandenen und 
 ### Lerngruppen
 Die Studierenden werden zu Beginn des Kurses in Lerngruppen zu max. 6 TeilnehmerInnen aufgeteilt. Diese Gruppen sind Basis für das Live-Coaching durch die TutorInnen. Außerhalb dieser Präsenzzeit sollen die Gruppen das gemeinsame Selbststudium unterstützten. Die Studierenden werden angehalten, bei der Erarbeitung von Lösungsvorschlägen zusammenzuarbeiten und die eigenen Vorschläge zu diskutieren.  Zur Unterstützung wird jeder Gruppe ein privater Kanal im Chat-System der Universität bereitgestellt, über den die Tutoren während des Live-Coaching aber auch außerhalb dieser Zeiten, asynchron, den Kontakt zu den Studierenden pflegen.
 ### Zentralübung (Praktikum)
-Die Zentralübung bzw. das Praktikum zum Kurs findet als ca. 60 Minütiger Live-Stream statt. Jede Woche werden die vorbereiteten Inhalte auf ein konkretes Entwicklungsbeispiel angewendet. Ausgangspunkt, Aufgabenstellung und Lösungsvorschlag werden den Studierenden zur Verfügung gestellt. Im Rahmen des Live-Streams wird die Lösung schrittweise erarbeitet. Das Vorgehen wird dabei kommentiert und erkjkl
-
+Die Zentralübung bzw. das Praktikum zum Kurs findet als ca. 60 Minütiger Live-Stream statt. Jede Woche werden die vorbereiteten Inhalte auf ein konkretes Entwicklungsbeispiel angewendet. Ausgangspunkt, Aufgabenstellung und Lösungsvorschlag werden den Studierenden zur Verfügung gestellt. Im Rahmen des Live-Streams wird die Lösung schrittweise erarbeitet. Das Vorgehen wird dabei kommentiert und erklärt.
 ### Übungsaufgaben und Betreuung
-
+Zu jeder inhaltlichen Sitzung wird eine Übungsaufgabe vorbereitet, die zusammen mit dem Material für das Selbststudium am Anfang der Woche bereitgestellt wird. Jeder Studierende fertig einen eigenen Lösungsvorschlag für die Aufgabe an und wir dabei 
 #### Betreuung der Lerngruppen
-
+#### Peer
 ### Projekte
 > Genaue Ausgestaltung noch sehr unklar
 
@@ -66,10 +65,10 @@ Die Zentralübung bzw. das Praktikum zum Kurs findet als ca. 60 Minütiger Live-
 * [ ] Zusätzliche Tutorials und Informationen vorbereiten
 * [ ] Streams planen und inhaltlich vorbereiten 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTM0MzA2ODksMjg0NDYyMjIwLDEyOT
-U0NjIxMywtMTY5OTc0MjkyMCwtMTM1MDg0MTE4MiwtMTMxNjEz
-NjkzOCwtMTI0NTQ0MDg4OCwtNzg0NDQ1NTE3LDE1MjgyOTQwNz
-gsNTg1NDI1NDQ0LDE5MzkyNzcxNTgsLTE4MDAxNjQwMDAsLTE1
-NzU5MzM1NjYsLTE0NDQ4NTQ0MDcsLTU1NjIxMzU1NywtMTQ0OT
-IyMjM0N119
+eyJoaXN0b3J5IjpbMTU0NTAwNzc3NCwyODQ0NjIyMjAsMTI5NT
+Q2MjEzLC0xNjk5NzQyOTIwLC0xMzUwODQxMTgyLC0xMzE2MTM2
+OTM4LC0xMjQ1NDQwODg4LC03ODQ0NDU1MTcsMTUyODI5NDA3OC
+w1ODU0MjU0NDQsMTkzOTI3NzE1OCwtMTgwMDE2NDAwMCwtMTU3
+NTkzMzU2NiwtMTQ0NDg1NDQwNywtNTU2MjEzNTU3LC0xNDQ5Mj
+IyMzQ3XX0=
 -->
