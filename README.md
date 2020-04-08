@@ -26,9 +26,8 @@ Der Kurs wird auf insgesamt ca. 10 inhaltliche Sitzungen reduziert. Zu jeder Sit
 |14| 22.07.2020 | | | | |
 ### Vorlesung
 Die Vorlesung wird vollständig durch das Selbststudium mit dem vorhandenen und an relevanten Stellen ergänzten Material durchgeführt. 
-
-
 ### Lerngruppen
+Die Studierenden werden zu Beginn des Kurses in Lerngruppen zu max. 6 TeilnehmerInnen aufgeteilt. Jede Gr
 
 ### Zentralübung (Praktikum)
 
@@ -64,8 +63,8 @@ Die Vorlesung wird vollständig durch das Selbststudium mit dem vorhandenen und 
 * [ ] Zusätzliche Tutorials und Informationen vorbereiten
 * [ ] Streams planen und inhaltlich vorbereiten 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNzQ1ODU2OCwtNzg0NDQ1NTE3LDE1Mj
-gyOTQwNzgsNTg1NDI1NDQ0LDE5MzkyNzcxNTgsLTE4MDAxNjQw
-MDAsLTE1NzU5MzM1NjYsLTE0NDQ4NTQ0MDcsLTU1NjIxMzU1Ny
-wtMTQ0OTIyMjM0N119
+eyJoaXN0b3J5IjpbNjI4NDI4OTAsLTc4NDQ0NTUxNywxNTI4Mj
+k0MDc4LDU4NTQyNTQ0NCwxOTM5Mjc3MTU4LC0xODAwMTY0MDAw
+LC0xNTc1OTMzNTY2LC0xNDQ0ODU0NDA3LC01NTYyMTM1NTcsLT
+E0NDkyMjIzNDddfQ==
 -->
