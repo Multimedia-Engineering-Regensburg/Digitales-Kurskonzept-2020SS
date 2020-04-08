@@ -8,11 +8,11 @@ Der Kurs wird von **Alexander Bazo** (alexander.bazo@ur.de) betreut und geleitet
 ### Inhaltliche Anpassung
 Der Kurs wird auf insgesamt ca. 10 inhaltliche Sitzungen reduziert. Zu jeder Sitzung wird ein Paket aus entsprechendem Lernmaterial bereitgestellt. Die Inhalte werden in der Zentralübung an einem gemeinsamen Beispiel demonstriert. Zu jeder Sitzung wird eine (verpflichtende) Übungsaufgabe angeboten. Die Projektphase wird früh im Semester begonnen, sodass die letzten 3-4 Wochen der Vorlesungszeit bereits für die Projektarbeit verwendet werden können. **Der Kurs beginnt in der zweiten Semesterwoche.**
 #### Vorläufiger Semesterplan
-| Einheit | Datum | Thema | Live-Beispiel | Übungsaufgabe | Coaching |
+| Woche| Datum | Thema | Live-Beispiel | Übungsaufgabe | Coaching |
 |---|-------|-------|---------------|---------------|----------|
-|-| 22.04.2020 | **entfällt** | | | |
-|1| 29.04.2020 | Grundlagen Javascript im Browser | | | |
-|2| 06.05.2020 | Grundlagen der (kollaborativen) Versionsverwaltung | | | |
+|1| 22.04.2020 | **entfällt** | | | |
+|2| 29.04.2020 | Grundlagen Javascript im Browser | | | |
+|3| 06.05.2020 | Grundlagen der (kollaborativen) Versionsverwaltung | | | |
 |4| 13.05.2020 | Javascript-Anwendung modularisieren und strukturieren | | | |
 |5| 20.05.2020 | Dynamische Webanwendungen als Server-/Client-Lösung | | | |
 |6| 27.05.2020 | Sitzungsübergreifende Verwendung von Browseranwendungen | | | |
@@ -68,11 +68,11 @@ Die Lösungen der Studierenden werden innerhalb der Lerngruppen ausgetauscht. Je
 * [ ] Zusätzliche Tutorials und Informationen vorbereiten
 * [ ] Streams planen und inhaltlich vorbereiten 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzcwODIyODgsMTE2NTEyNzk1MywtMT
-gxNDE4NDU5MSwxODU4NDgxNTA0LDI4NDQ2MjIyMCwxMjk1NDYy
-MTMsLTE2OTk3NDI5MjAsLTEzNTA4NDExODIsLTEzMTYxMzY5Mz
-gsLTEyNDU0NDA4ODgsLTc4NDQ0NTUxNywxNTI4Mjk0MDc4LDU4
-NTQyNTQ0NCwxOTM5Mjc3MTU4LC0xODAwMTY0MDAwLC0xNTc1OT
-MzNTY2LC0xNDQ0ODU0NDA3LC01NTYyMTM1NTcsLTE0NDkyMjIz
-NDddfQ==
+eyJoaXN0b3J5IjpbMTkwMTIwNDIyMCwxMTY1MTI3OTUzLC0xOD
+E0MTg0NTkxLDE4NTg0ODE1MDQsMjg0NDYyMjIwLDEyOTU0NjIx
+MywtMTY5OTc0MjkyMCwtMTM1MDg0MTE4MiwtMTMxNjEzNjkzOC
+wtMTI0NTQ0MDg4OCwtNzg0NDQ1NTE3LDE1MjgyOTQwNzgsNTg1
+NDI1NDQ0LDE5MzkyNzcxNTgsLTE4MDAxNjQwMDAsLTE1NzU5Mz
+M1NjYsLTE0NDQ4NTQ0MDcsLTU1NjIxMzU1NywtMTQ0OTIyMjM0
+N119
 -->
