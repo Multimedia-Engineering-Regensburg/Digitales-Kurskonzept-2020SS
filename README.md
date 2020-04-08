@@ -40,8 +40,11 @@ Die Lerngruppen werden vorrangig über private Chat-Kanäle im [Rocket Chat](htt
 #### Live-Coaching
 -
 #### Bewertung der Übungsaufgaben
-Alle Übungsaufgaben werden von den Tutoren  hinsichtlich der funktionalen Vollständigkeit und der Erfüllung grundsätzlicher Qualitätsanfoderungen kontrolliert. Feedback erhalten die Studierenden in Form einer kurzen Bewertungsmatrix
+Alle Übungsaufgaben werden von den Tutoren  hinsichtlich der funktionalen Vollständigkeit und der Erfüllung grundsätzlicher Qualitätsanfoderungen kontrolliert. Feedback erhalten die Studierenden in Form einer kurzen Bewertungsmatrix. 
 #### Peer Review
+Die Lösungen der Studierenden werden innerhalb der Lerngruppen ausgetauscht. Jeder Studierende fertig ein *Code Review* zum Lösungsvorschlag eines Kommiltonen an. Die Zuordnug und Vorbereitung, inkl. einer entsprechenden Checkliste für die Anfertigung des eigentlichen Reviews, werd
+
+
 ### Projekte
 > Genaue Ausgestaltung noch sehr unklar
 
@@ -70,7 +73,7 @@ Alle Übungsaufgaben werden von den Tutoren  hinsichtlich der funktionalen Volls
 * [ ] Zusätzliche Tutorials und Informationen vorbereiten
 * [ ] Streams planen und inhaltlich vorbereiten 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzMwODMzLDE4NTg0ODE1MDQsMjg0ND
+eyJoaXN0b3J5IjpbODYzMTg5Nzc4LDE4NTg0ODE1MDQsMjg0ND
 YyMjIwLDEyOTU0NjIxMywtMTY5OTc0MjkyMCwtMTM1MDg0MTE4
 MiwtMTMxNjEzNjkzOCwtMTI0NTQ0MDg4OCwtNzg0NDQ1NTE3LD
 E1MjgyOTQwNzgsNTg1NDI1NDQ0LDE5MzkyNzcxNTgsLTE4MDAx
