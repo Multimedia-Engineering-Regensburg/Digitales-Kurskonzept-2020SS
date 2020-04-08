@@ -36,14 +36,13 @@ Die Zentralübung bzw. das Projektseminar zum Kurs findet als ca. 60 Minütiger 
 ### Übungsaufgaben und Betreuung
 Zu jeder inhaltlichen Sitzung wird eine Übungsaufgabe vorbereitet, die zusammen mit dem Material für das Selbststudium am Anfang der Woche bereitgestellt wird. Jeder Studierende fertig einen eigenen Lösungsvorschlag für die Aufgabe an und wir dabei von seiner Lerngruppen und den Tutoren unterstützt. Die Übungsaufgabe orientiert sich thematisch an der jeweiligen Vorlesung. Die Bearbeitungszeit beträgt jeweils eine Woche. Die Materialien werden über *Github Classroom* bereitgestellt und auch über diese Plattform eingereicht. Die Übungsaufgaben dienen als Studienleistungen. Werden zwei Drittel oder mehr der Aufgaben als bestanden gewertet, gilt die begleitende Studienleistung als abgelegt.
 #### Betreuung der Lerngruppen
-Die Lerngruppen werden vorrangig über private Chat-Kanäle im [Rocket Chat](https://chat.ur.de) der Universität Regensburg betreut. Links zu Materialien und Arbeitsanweisungen werden über diese verteilt. Der Text-Chat dient als erste Anlaufstelle bei Problemen oder Fragen. Jeder Gruppe ist
+Die Lerngruppen werden vorrangig über private Chat-Kanäle im [Rocket Chat](https://chat.ur.de) der Universität Regensburg betreut. Links zu Materialien und Arbeitsanweisungen werden über diese verteilt. Der Text-Chat dient als erste Anlaufstelle bei Problemen oder Fragen. Jeder Gruppe ist ein Tutor zugeordnet, der diese begleitende unterstützt. Grundsätzlich ist, aufgrund des hohen Aufwands, eine Beschränkung auf Textkommunikation denkbar. Ggf. kann aber auch ein regelmäßiger Video-Termin vereinbart werden. Dieser sollte der Besprechung von Ergebnissen, weniger dem gemeinsamen Coding, dienen. Zu 
 #### Live-Coaching
 -
 #### Bewertung der Übungsaufgaben
 Alle Übungsaufgaben werden von den Tutoren  hinsichtlich der funktionalen Vollständigkeit und der Erfüllung grundsätzlicher Qualitätsanfoderungen kontrolliert. Feedback erhalten die Studierenden in Form einer kurzen Bewertungsmatrix. 
 #### Peer Review
-Die Lösungen der Studierenden werden innerhalb der Lerngruppen ausgetauscht. Jeder Studierende fertig ein *Code Review* zum Lösungsvorschlag eines Kommiltonen an. Die Zuordnug und Vorbereitung, inkl. einer entsprechenden Checkliste für die Anfertigung des eigentlichen Reviews, werden über Direktnachrichten im Rocket-Chat verteilt. Bei der Organisation ist eine vollständig anonyme Zuordnung ebenso denkbar, wie eine Lösung, die den beiden beteiligten Studierendne
-
+Die Lösungen der Studierenden werden innerhalb der Lerngruppen ausgetauscht. Jeder Studierende fertig ein *Code Review* zum Lösungsvorschlag eines Kommiltonen an. Die Zuordnug und Vorbereitung, inkl. einer entsprechenden Checkliste für die Anfertigung des eigentlichen Reviews, werden über Direktnachrichten im Rocket-Chat verteilt. Bei der Organisation ist eine vollständig anonyme Zuordnung ebenso denkbar, wie eine Lösung, die den beiden beteiligten Studierenden die Kommunikation untereinander ermöglicht.
 ### Projekte
 > Genaue Ausgestaltung noch sehr unklar
 
@@ -72,10 +71,10 @@ Die Lösungen der Studierenden werden innerhalb der Lerngruppen ausgetauscht. Je
 * [ ] Zusätzliche Tutorials und Informationen vorbereiten
 * [ ] Streams planen und inhaltlich vorbereiten 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDM4OTQ5MDgsLTE4MTQxODQ1OTEsMT
-g1ODQ4MTUwNCwyODQ0NjIyMjAsMTI5NTQ2MjEzLC0xNjk5NzQy
-OTIwLC0xMzUwODQxMTgyLC0xMzE2MTM2OTM4LC0xMjQ1NDQwOD
-g4LC03ODQ0NDU1MTcsMTUyODI5NDA3OCw1ODU0MjU0NDQsMTkz
-OTI3NzE1OCwtMTgwMDE2NDAwMCwtMTU3NTkzMzU2NiwtMTQ0ND
-g1NDQwNywtNTU2MjEzNTU3LC0xNDQ5MjIyMzQ3XX0=
+eyJoaXN0b3J5IjpbMTcxNTY4NTUxMCwtMTgxNDE4NDU5MSwxOD
+U4NDgxNTA0LDI4NDQ2MjIyMCwxMjk1NDYyMTMsLTE2OTk3NDI5
+MjAsLTEzNTA4NDExODIsLTEzMTYxMzY5MzgsLTEyNDU0NDA4OD
+gsLTc4NDQ0NTUxNywxNTI4Mjk0MDc4LDU4NTQyNTQ0NCwxOTM5
+Mjc3MTU4LC0xODAwMTY0MDAwLC0xNTc1OTMzNTY2LC0xNDQ0OD
+U0NDA3LC01NTYyMTM1NTcsLTE0NDkyMjIzNDddfQ==
 -->
