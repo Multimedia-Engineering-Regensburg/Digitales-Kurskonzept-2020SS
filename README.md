@@ -32,7 +32,7 @@ Die Vorlesung wird vollständig durch das Selbststudium mit dem vorhandenen und 
 ### Lerngruppen
 Die Studierenden werden zu Beginn des Kurses in Lerngruppen zu max. 6 TeilnehmerInnen aufgeteilt. Diese Gruppen sind Basis für das Live-Coaching durch die TutorInnen. Außerhalb dieser Präsenzzeit sollen die Gruppen das gemeinsame Selbststudium unterstützten. Die Studierenden werden angehalten, bei der Erarbeitung von Lösungsvorschlägen zusammenzuarbeiten und die eigenen Vorschläge zu diskutieren.  Zur Unterstützung wird jeder Gruppe ein privater Kanal im Chat-System der Universität bereitgestellt, über den die Tutoren während des Live-Coaching aber auch außerhalb dieser Zeiten, asynchron, den Kontakt zu den Studierenden pflegen.
 ### Zentralübung (Praktikum)
-Die Zentral
+Die Zentralübung bzw. das Praktikum zum Kurs findet als Live-Stream statt. Jede Woche werden die vorbereiteten Inhalte 
 
 ### Übungsaufgaben und Betreuung
 
@@ -66,9 +66,9 @@ Die Zentral
 * [ ] Zusätzliche Tutorials und Informationen vorbereiten
 * [ ] Streams planen und inhaltlich vorbereiten 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MjM0MTQ0OCwtMTY5OTc0MjkyMCwtMT
-M1MDg0MTE4MiwtMTMxNjEzNjkzOCwtMTI0NTQ0MDg4OCwtNzg0
-NDQ1NTE3LDE1MjgyOTQwNzgsNTg1NDI1NDQ0LDE5MzkyNzcxNT
-gsLTE4MDAxNjQwMDAsLTE1NzU5MzM1NjYsLTE0NDQ4NTQ0MDcs
-LTU1NjIxMzU1NywtMTQ0OTIyMjM0N119
+eyJoaXN0b3J5IjpbMTI5NTQ2MjEzLC0xNjk5NzQyOTIwLC0xMz
+UwODQxMTgyLC0xMzE2MTM2OTM4LC0xMjQ1NDQwODg4LC03ODQ0
+NDU1MTcsMTUyODI5NDA3OCw1ODU0MjU0NDQsMTkzOTI3NzE1OC
+wtMTgwMDE2NDAwMCwtMTU3NTkzMzU2NiwtMTQ0NDg1NDQwNywt
+NTU2MjEzNTU3LC0xNDQ5MjIyMzQ3XX0=
 -->
